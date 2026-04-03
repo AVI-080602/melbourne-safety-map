@@ -1,0 +1,5963 @@
+{
+  "Ivanhoe": {
+    "score": 55,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.3/5)",
+      "Burglary/Break and enter (3.3/5)",
+      "Breaches of orders (3.1/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Banyule"
+  },
+  "Ivanhoe East": {
+    "score": 55,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.5/5)",
+      "Burglary/Break and enter (3.3/5)",
+      "Breaches of orders (3.8/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Banyule"
+  },
+  "Bellfield": {
+    "score": 55,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.4/5)",
+      "Breaches of orders (3.2/5)",
+      "Assault and related offences (4.4/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Banyule"
+  },
+  "Heidelberg Heights": {
+    "score": 55,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.3/5)",
+      "Breaches of orders (3.1/5)",
+      "Assault and related offences (4.4/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Banyule"
+  },
+  "Heidelberg West": {
+    "score": 55,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.3/5)",
+      "Breaches of orders (3.1/5)",
+      "Assault and related offences (4.4/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Banyule"
+  },
+  "Bundoora": {
+    "score": 55,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.3/5)",
+      "Breaches of orders (3.1/5)",
+      "Assault and related offences (4.4/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Banyule"
+  },
+  "Eaglemont": {
+    "score": 55,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.4/5)",
+      "Burglary/Break and enter (3.3/5)",
+      "Breaches of orders (3.7/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Banyule"
+  },
+  "Heidelberg": {
+    "score": 55,
+    "label": "yellow",
+    "top_crimes": [
+      "Breaches of orders (3.0/5)",
+      "Theft (2.3/5)",
+      "Assault and related offences (4.4/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Banyule"
+  },
+  "Rosanna": {
+    "score": 55,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.3/5)",
+      "Burglary/Break and enter (3.3/5)",
+      "Breaches of orders (3.3/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Banyule"
+  },
+  "Viewbank": {
+    "score": 55,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.4/5)",
+      "Burglary/Break and enter (3.3/5)",
+      "Breaches of orders (3.3/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Banyule"
+  },
+  "Macleod": {
+    "score": 55,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.4/5)",
+      "Breaches of orders (3.4/5)",
+      "Burglary/Break and enter (3.3/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Banyule"
+  },
+  "Yallambie": {
+    "score": 55,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.4/5)",
+      "Breaches of orders (3.4/5)",
+      "Assault and related offences (4.4/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Banyule"
+  },
+  "Watsonia": {
+    "score": 55,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.3/5)",
+      "Breaches of orders (3.1/5)",
+      "Assault and related offences (4.4/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Banyule"
+  },
+  "Watsonia North": {
+    "score": 55,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.4/5)",
+      "Breaches of orders (3.4/5)",
+      "Assault and related offences (4.3/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Banyule"
+  },
+  "Briar Hill": {
+    "score": 55,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.5/5)",
+      "Breaches of orders (3.7/5)",
+      "Burglary/Break and enter (3.3/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Banyule"
+  },
+  "Greensborough": {
+    "score": 55,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.4/5)",
+      "Breaches of orders (3.2/5)",
+      "Assault and related offences (4.4/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Banyule"
+  },
+  "St Helena": {
+    "score": 55,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.4/5)",
+      "Assault and related offences (4.4/5)",
+      "Breaches of orders (3.6/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Banyule"
+  },
+  "Lower Plenty": {
+    "score": 55,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.4/5)",
+      "Burglary/Break and enter (3.3/5)",
+      "Assault and related offences (4.5/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Banyule"
+  },
+  "Montmorency": {
+    "score": 55,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.4/5)",
+      "Breaches of orders (3.4/5)",
+      "Assault and related offences (4.4/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Banyule"
+  },
+  "Eltham": {
+    "score": 55,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.3/5)",
+      "Breaches of orders (3.2/5)",
+      "Assault and related offences (4.4/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Banyule"
+  },
+  "Eltham North": {
+    "score": 55,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.5/5)",
+      "Breaches of orders (3.5/5)",
+      "Assault and related offences (4.4/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Banyule"
+  },
+  "Brighton": {
+    "score": 39,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.3/5)",
+      "Burglary/Break and enter (3.3/5)",
+      "Breaches of orders (3.1/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Bayside"
+  },
+  "Brighton East": {
+    "score": 39,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.4/5)",
+      "Burglary/Break and enter (3.3/5)",
+      "Breaches of orders (3.4/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Bayside"
+  },
+  "Hampton": {
+    "score": 39,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.3/5)",
+      "Burglary/Break and enter (3.3/5)",
+      "Assault and related offences (4.4/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Bayside"
+  },
+  "Hampton East": {
+    "score": 39,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.3/5)",
+      "Breaches of orders (3.2/5)",
+      "Assault and related offences (4.4/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Bayside"
+  },
+  "Highett": {
+    "score": 39,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.3/5)",
+      "Breaches of orders (3.1/5)",
+      "Assault and related offences (4.4/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Bayside"
+  },
+  "Sandringham": {
+    "score": 39,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.3/5)",
+      "Breaches of orders (3.2/5)",
+      "Burglary/Break and enter (3.3/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Bayside"
+  },
+  "Beaumaris": {
+    "score": 39,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.4/5)",
+      "Burglary/Break and enter (3.3/5)",
+      "Breaches of orders (3.2/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Bayside"
+  },
+  "Cheltenham": {
+    "score": 39,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.3/5)",
+      "Breaches of orders (3.3/5)",
+      "Assault and related offences (4.4/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Bayside"
+  },
+  "Black Rock": {
+    "score": 39,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.4/5)",
+      "Burglary/Break and enter (3.3/5)",
+      "Assault and related offences (4.4/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Bayside"
+  },
+  "Kew": {
+    "score": 35,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.3/5)",
+      "Burglary/Break and enter (3.3/5)",
+      "Breaches of orders (3.1/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Boroondara"
+  },
+  "Kew East": {
+    "score": 35,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.3/5)",
+      "Burglary/Break and enter (3.3/5)",
+      "Breaches of orders (3.4/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Boroondara"
+  },
+  "Balwyn": {
+    "score": 35,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.3/5)",
+      "Burglary/Break and enter (3.3/5)",
+      "Assault and related offences (4.5/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Boroondara"
+  },
+  "Deepdene": {
+    "score": 35,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.4/5)",
+      "Burglary/Break and enter (3.3/5)",
+      "Breaches of orders (3.7/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Boroondara"
+  },
+  "Balwyn North": {
+    "score": 35,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.4/5)",
+      "Burglary/Break and enter (3.3/5)",
+      "Assault and related offences (4.4/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Boroondara"
+  },
+  "Hawthorn": {
+    "score": 35,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.3/5)",
+      "Burglary/Break and enter (3.3/5)",
+      "Assault and related offences (4.4/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Boroondara"
+  },
+  "Hawthorn East": {
+    "score": 35,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.3/5)",
+      "Burglary/Break and enter (3.3/5)",
+      "Assault and related offences (4.4/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Boroondara"
+  },
+  "Camberwell": {
+    "score": 35,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.3/5)",
+      "Burglary/Break and enter (3.3/5)",
+      "Assault and related offences (4.4/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Boroondara"
+  },
+  "Canterbury": {
+    "score": 35,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.4/5)",
+      "Burglary/Break and enter (3.3/5)",
+      "Assault and related offences (4.4/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Boroondara"
+  },
+  "Mont Albert": {
+    "score": 35,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.4/5)",
+      "Burglary/Break and enter (3.3/5)",
+      "Assault and related offences (4.4/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Boroondara"
+  },
+  "Surrey Hills": {
+    "score": 35,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.4/5)",
+      "Burglary/Break and enter (3.3/5)",
+      "Breaches of orders (3.2/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Boroondara"
+  },
+  "Glen Iris": {
+    "score": 35,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.3/5)",
+      "Burglary/Break and enter (3.3/5)",
+      "Breaches of orders (3.3/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Boroondara"
+  },
+  "Ashburton": {
+    "score": 35,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.3/5)",
+      "Burglary/Break and enter (3.3/5)",
+      "Assault and related offences (4.4/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Boroondara"
+  },
+  "Brooklyn": {
+    "score": 73,
+    "label": "orange",
+    "top_crimes": [
+      "Theft (2.4/5)",
+      "Burglary/Break and enter (3.2/5)",
+      "Assault and related offences (4.4/5)"
+    ],
+    "tips": "Exercise caution, especially at night. Stick to well-lit, busy streets.",
+    "lga": "Brimbank"
+  },
+  "Albion": {
+    "score": 73,
+    "label": "orange",
+    "top_crimes": [
+      "Theft (2.3/5)",
+      "Assault and related offences (4.4/5)",
+      "Breaches of orders (3.0/5)"
+    ],
+    "tips": "Exercise caution, especially at night. Stick to well-lit, busy streets.",
+    "lga": "Brimbank"
+  },
+  "St Albans": {
+    "score": 73,
+    "label": "orange",
+    "top_crimes": [
+      "Theft (2.3/5)",
+      "Assault and related offences (4.4/5)",
+      "Breaches of orders (3.0/5)"
+    ],
+    "tips": "Exercise caution, especially at night. Stick to well-lit, busy streets.",
+    "lga": "Brimbank"
+  },
+  "Sunshine": {
+    "score": 73,
+    "label": "orange",
+    "top_crimes": [
+      "Theft (2.2/5)",
+      "Breaches of orders (3.0/5)",
+      "Assault and related offences (4.4/5)"
+    ],
+    "tips": "Exercise caution, especially at night. Stick to well-lit, busy streets.",
+    "lga": "Brimbank"
+  },
+  "Sunshine North": {
+    "score": 73,
+    "label": "orange",
+    "top_crimes": [
+      "Theft (2.3/5)",
+      "Assault and related offences (4.4/5)",
+      "Burglary/Break and enter (3.3/5)"
+    ],
+    "tips": "Exercise caution, especially at night. Stick to well-lit, busy streets.",
+    "lga": "Brimbank"
+  },
+  "Sunshine West": {
+    "score": 73,
+    "label": "orange",
+    "top_crimes": [
+      "Theft (2.3/5)",
+      "Breaches of orders (3.1/5)",
+      "Assault and related offences (4.4/5)"
+    ],
+    "tips": "Exercise caution, especially at night. Stick to well-lit, busy streets.",
+    "lga": "Brimbank"
+  },
+  "Albanvale": {
+    "score": 73,
+    "label": "orange",
+    "top_crimes": [
+      "Breaches of orders (3.2/5)",
+      "Theft (2.4/5)",
+      "Assault and related offences (4.4/5)"
+    ],
+    "tips": "Exercise caution, especially at night. Stick to well-lit, busy streets.",
+    "lga": "Brimbank"
+  },
+  "Kealba": {
+    "score": 73,
+    "label": "orange",
+    "top_crimes": [
+      "Theft (2.4/5)",
+      "Breaches of orders (3.3/5)",
+      "Assault and related offences (4.4/5)"
+    ],
+    "tips": "Exercise caution, especially at night. Stick to well-lit, busy streets.",
+    "lga": "Brimbank"
+  },
+  "Kings Park": {
+    "score": 73,
+    "label": "orange",
+    "top_crimes": [
+      "Theft (2.4/5)",
+      "Breaches of orders (3.2/5)",
+      "Assault and related offences (4.4/5)"
+    ],
+    "tips": "Exercise caution, especially at night. Stick to well-lit, busy streets.",
+    "lga": "Brimbank"
+  },
+  "Ardeer": {
+    "score": 73,
+    "label": "orange",
+    "top_crimes": [
+      "Theft (2.4/5)",
+      "Assault and related offences (4.5/5)",
+      "Breaches of orders (3.1/5)"
+    ],
+    "tips": "Exercise caution, especially at night. Stick to well-lit, busy streets.",
+    "lga": "Brimbank"
+  },
+  "Cairnlea": {
+    "score": 73,
+    "label": "orange",
+    "top_crimes": [
+      "Theft (2.3/5)",
+      "Breaches of orders (3.1/5)",
+      "Assault and related offences (4.4/5)"
+    ],
+    "tips": "Exercise caution, especially at night. Stick to well-lit, busy streets.",
+    "lga": "Brimbank"
+  },
+  "Deer Park": {
+    "score": 73,
+    "label": "orange",
+    "top_crimes": [
+      "Theft (2.3/5)",
+      "Breaches of orders (3.1/5)",
+      "Assault and related offences (4.4/5)"
+    ],
+    "tips": "Exercise caution, especially at night. Stick to well-lit, busy streets.",
+    "lga": "Brimbank"
+  },
+  "Derrimut": {
+    "score": 73,
+    "label": "orange",
+    "top_crimes": [
+      "Theft (2.4/5)",
+      "Burglary/Break and enter (3.3/5)",
+      "Assault and related offences (4.4/5)"
+    ],
+    "tips": "Exercise caution, especially at night. Stick to well-lit, busy streets.",
+    "lga": "Brimbank"
+  },
+  "Keilor East": {
+    "score": 73,
+    "label": "orange",
+    "top_crimes": [
+      "Theft (2.4/5)",
+      "Breaches of orders (3.3/5)",
+      "Assault and related offences (4.4/5)"
+    ],
+    "tips": "Exercise caution, especially at night. Stick to well-lit, busy streets.",
+    "lga": "Brimbank"
+  },
+  "Keilor": {
+    "score": 73,
+    "label": "orange",
+    "top_crimes": [
+      "Theft (2.4/5)",
+      "Breaches of orders (3.5/5)",
+      "Burglary/Break and enter (3.2/5)"
+    ],
+    "tips": "Exercise caution, especially at night. Stick to well-lit, busy streets.",
+    "lga": "Brimbank"
+  },
+  "Keilor North": {
+    "score": 73,
+    "label": "orange",
+    "top_crimes": [
+      "Theft (2.4/5)",
+      "Deception (2.0/5)",
+      "Assault and related offences (4.2/5)"
+    ],
+    "tips": "Exercise caution, especially at night. Stick to well-lit, busy streets.",
+    "lga": "Brimbank"
+  },
+  "Calder Park": {
+    "score": 73,
+    "label": "orange",
+    "top_crimes": [
+      "Theft (2.4/5)",
+      "Deception (1.8/5)",
+      "Assault and related offences (4.3/5)"
+    ],
+    "tips": "Exercise caution, especially at night. Stick to well-lit, busy streets.",
+    "lga": "Brimbank"
+  },
+  "Delahey": {
+    "score": 73,
+    "label": "orange",
+    "top_crimes": [
+      "Theft (2.4/5)",
+      "Breaches of orders (3.2/5)",
+      "Assault and related offences (4.4/5)"
+    ],
+    "tips": "Exercise caution, especially at night. Stick to well-lit, busy streets.",
+    "lga": "Brimbank"
+  },
+  "Hillside": {
+    "score": 73,
+    "label": "orange",
+    "top_crimes": [
+      "Theft (2.4/5)",
+      "Breaches of orders (3.3/5)",
+      "Assault and related offences (4.4/5)"
+    ],
+    "tips": "Exercise caution, especially at night. Stick to well-lit, busy streets.",
+    "lga": "Brimbank"
+  },
+  "Sydenham": {
+    "score": 73,
+    "label": "orange",
+    "top_crimes": [
+      "Theft (2.4/5)",
+      "Breaches of orders (3.1/5)",
+      "Assault and related offences (4.4/5)"
+    ],
+    "tips": "Exercise caution, especially at night. Stick to well-lit, busy streets.",
+    "lga": "Brimbank"
+  },
+  "Keilor Downs": {
+    "score": 73,
+    "label": "orange",
+    "top_crimes": [
+      "Theft (2.3/5)",
+      "Breaches of orders (3.1/5)",
+      "Assault and related offences (4.4/5)"
+    ],
+    "tips": "Exercise caution, especially at night. Stick to well-lit, busy streets.",
+    "lga": "Brimbank"
+  },
+  "Keilor Lodge": {
+    "score": 73,
+    "label": "orange",
+    "top_crimes": [
+      "Theft (2.5/5)",
+      "Breaches of orders (3.8/5)",
+      "Burglary/Break and enter (3.3/5)"
+    ],
+    "tips": "Exercise caution, especially at night. Stick to well-lit, busy streets.",
+    "lga": "Brimbank"
+  },
+  "Taylors Lakes": {
+    "score": 73,
+    "label": "orange",
+    "top_crimes": [
+      "Theft (2.3/5)",
+      "Breaches of orders (3.1/5)",
+      "Assault and related offences (4.4/5)"
+    ],
+    "tips": "Exercise caution, especially at night. Stick to well-lit, busy streets.",
+    "lga": "Brimbank"
+  },
+  "Keilor Park": {
+    "score": 73,
+    "label": "orange",
+    "top_crimes": [
+      "Theft (2.4/5)",
+      "Deception (1.9/5)",
+      "Assault and related offences (4.4/5)"
+    ],
+    "tips": "Exercise caution, especially at night. Stick to well-lit, busy streets.",
+    "lga": "Brimbank"
+  },
+  "Tullamarine": {
+    "score": 73,
+    "label": "orange",
+    "top_crimes": [
+      "Theft (2.4/5)",
+      "Burglary/Break and enter (3.3/5)",
+      "Breaches of orders (3.4/5)"
+    ],
+    "tips": "Exercise caution, especially at night. Stick to well-lit, busy streets.",
+    "lga": "Brimbank"
+  },
+  "Menzies Creek": {
+    "score": 50,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.6/5)",
+      "Breaches of orders (3.5/5)",
+      "Assault and related offences (4.3/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Cardinia"
+  },
+  "Cockatoo": {
+    "score": 50,
+    "label": "yellow",
+    "top_crimes": [
+      "Breaches of orders (3.5/5)",
+      "Assault and related offences (4.4/5)",
+      "Theft (2.4/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Cardinia"
+  },
+  "Mount Burnett": {
+    "score": 50,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.7/5)",
+      "Burglary/Break and enter (3.0/5)",
+      "Dangerous and negligent acts endangering people (4.0/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Cardinia"
+  },
+  "Nangana": {
+    "score": 50,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.8/5)",
+      "Assault and related offences (4.0/5)",
+      "Arson (3.0/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Cardinia"
+  },
+  "Avonsleigh": {
+    "score": 50,
+    "label": "yellow",
+    "top_crimes": [
+      "Other crimes against the person (2.0/5)",
+      "Theft (2.6/5)",
+      "Burglary/Break and enter (3.0/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Cardinia"
+  },
+  "Clematis": {
+    "score": 50,
+    "label": "yellow",
+    "top_crimes": [
+      "Breaches of orders (4.0/5)",
+      "Theft (2.6/5)",
+      "Assault and related offences (4.4/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Cardinia"
+  },
+  "Emerald": {
+    "score": 50,
+    "label": "yellow",
+    "top_crimes": [
+      "Breaches of orders (3.5/5)",
+      "Theft (2.4/5)",
+      "Burglary/Break and enter (3.2/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Cardinia"
+  },
+  "Gembrook": {
+    "score": 50,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.5/5)",
+      "Deception (1.9/5)",
+      "Assault and related offences (4.5/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Cardinia"
+  },
+  "Beaconsfield": {
+    "score": 50,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.4/5)",
+      "Assault and related offences (4.4/5)",
+      "Breaches of orders (3.5/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Cardinia"
+  },
+  "Guys Hill": {
+    "score": 50,
+    "label": "yellow",
+    "top_crimes": [
+      "Burglary/Break and enter (3.2/5)",
+      "Theft (2.7/5)",
+      "Assault and related offences (4.2/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Cardinia"
+  },
+  "Beaconsfield Upper": {
+    "score": 50,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.5/5)",
+      "Burglary/Break and enter (3.1/5)",
+      "Breaches of orders (3.8/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Cardinia"
+  },
+  "Dewhurst": {
+    "score": 50,
+    "label": "yellow",
+    "top_crimes": [
+      "Weapons and explosives offences (4.0/5)",
+      "Burglary/Break and enter (3.2/5)",
+      "Theft (2.4/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Cardinia"
+  },
+  "Officer": {
+    "score": 50,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.3/5)",
+      "Breaches of orders (3.1/5)",
+      "Burglary/Break and enter (3.3/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Cardinia"
+  },
+  "Officer South": {
+    "score": 50,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.5/5)",
+      "Burglary/Break and enter (3.3/5)",
+      "Breaches of orders (4.0/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Cardinia"
+  },
+  "Pakenham": {
+    "score": 50,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.2/5)",
+      "Breaches of orders (3.1/5)",
+      "Assault and related offences (4.4/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Cardinia"
+  },
+  "Pakenham South": {
+    "score": 50,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.6/5)",
+      "Assault and related offences (4.5/5)",
+      "Weapons and explosives offences (4.0/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Cardinia"
+  },
+  "Pakenham Upper": {
+    "score": 50,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.5/5)",
+      "Breaches of orders (3.9/5)",
+      "Burglary/Break and enter (3.2/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Cardinia"
+  },
+  "Rythdale": {
+    "score": 50,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.8/5)",
+      "Burglary/Break and enter (3.0/5)",
+      "Property damage (2.0/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Cardinia"
+  },
+  "Maryknoll": {
+    "score": 50,
+    "label": "yellow",
+    "top_crimes": [
+      "Breaches of orders (3.8/5)",
+      "Assault and related offences (4.4/5)",
+      "Stalking, harassment and threatening behaviour (3.8/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Cardinia"
+  },
+  "Nar Nar Goon": {
+    "score": 50,
+    "label": "yellow",
+    "top_crimes": [
+      "Breaches of orders (3.4/5)",
+      "Theft (2.5/5)",
+      "Assault and related offences (4.4/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Cardinia"
+  },
+  "Nar Nar Goon North": {
+    "score": 50,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.5/5)",
+      "Assault and related offences (4.4/5)",
+      "Burglary/Break and enter (3.2/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Cardinia"
+  },
+  "Tynong": {
+    "score": 50,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.5/5)",
+      "Assault and related offences (4.4/5)",
+      "Weapons and explosives offences (4.0/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Cardinia"
+  },
+  "Tynong North": {
+    "score": 50,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.5/5)",
+      "Breaches of orders (3.7/5)",
+      "Assault and related offences (4.3/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Cardinia"
+  },
+  "Cora Lynn": {
+    "score": 50,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.7/5)",
+      "Burglary/Break and enter (3.0/5)",
+      "Assault and related offences (4.5/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Cardinia"
+  },
+  "Garfield": {
+    "score": 50,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.5/5)",
+      "Breaches of orders (3.4/5)",
+      "Assault and related offences (4.5/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Cardinia"
+  },
+  "Garfield North": {
+    "score": 50,
+    "label": "yellow",
+    "top_crimes": [
+      "Breaches of orders (4.0/5)",
+      "Theft (2.5/5)",
+      "Burglary/Break and enter (3.1/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Cardinia"
+  },
+  "Vervale": {
+    "score": 50,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.6/5)",
+      "Burglary/Break and enter (3.0/5)",
+      "Weapons and explosives offences (4.0/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Cardinia"
+  },
+  "Bunyip": {
+    "score": 50,
+    "label": "yellow",
+    "top_crimes": [
+      "Breaches of orders (3.6/5)",
+      "Theft (2.4/5)",
+      "Assault and related offences (4.4/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Cardinia"
+  },
+  "Bunyip North": {
+    "score": 50,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.5/5)",
+      "Assault and related offences (4.4/5)",
+      "Breaches of orders (3.5/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Cardinia"
+  },
+  "Iona": {
+    "score": 50,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.5/5)",
+      "Miscellaneous offences (2.0/5)",
+      "Breaches of orders (4.0/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Cardinia"
+  },
+  "Longwarry": {
+    "score": 50,
+    "label": "yellow",
+    "top_crimes": [
+      "Breaches of orders (3.3/5)",
+      "Theft (2.5/5)",
+      "Property damage (2.0/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Cardinia"
+  },
+  "Modella": {
+    "score": 50,
+    "label": "yellow",
+    "top_crimes": [
+      "Breaches of orders (4.0/5)",
+      "Assault and related offences (4.5/5)",
+      "Weapons and explosives offences (4.0/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Cardinia"
+  },
+  "Cardinia": {
+    "score": 50,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.5/5)",
+      "Burglary/Break and enter (3.0/5)",
+      "Assault and related offences (4.3/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Cardinia"
+  },
+  "Tooradin": {
+    "score": 50,
+    "label": "yellow",
+    "top_crimes": [
+      "Breaches of orders (3.3/5)",
+      "Theft (2.4/5)",
+      "Assault and related offences (4.5/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Cardinia"
+  },
+  "Bayles": {
+    "score": 50,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.6/5)",
+      "Assault and related offences (4.4/5)",
+      "Breaches of orders (4.0/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Cardinia"
+  },
+  "Catani": {
+    "score": 50,
+    "label": "yellow",
+    "top_crimes": [
+      "Weapons and explosives offences (4.0/5)",
+      "Breaches of orders (4.0/5)",
+      "Theft (2.6/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Cardinia"
+  },
+  "Dalmore": {
+    "score": 50,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.4/5)",
+      "Burglary/Break and enter (3.0/5)",
+      "Breaches of orders (3.4/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Cardinia"
+  },
+  "Heath Hill": {
+    "score": 50,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.5/5)",
+      "Arson (4.0/5)",
+      "Burglary/Break and enter (3.0/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Cardinia"
+  },
+  "Koo Wee Rup": {
+    "score": 50,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.4/5)",
+      "Breaches of orders (3.4/5)",
+      "Assault and related offences (4.5/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Cardinia"
+  },
+  "Koo Wee Rup North": {
+    "score": 50,
+    "label": "yellow",
+    "top_crimes": [
+      "Assault and related offences (4.2/5)",
+      "Theft (2.5/5)",
+      "Property damage (2.0/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Cardinia"
+  },
+  "Yannathan": {
+    "score": 50,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.5/5)",
+      "Breaches of orders (3.7/5)",
+      "Burglary/Break and enter (3.1/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Cardinia"
+  },
+  "Caldermeade": {
+    "score": 50,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.4/5)",
+      "Assault and related offences (4.4/5)",
+      "Breaches of orders (3.4/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Cardinia"
+  },
+  "Lang Lang": {
+    "score": 50,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.4/5)",
+      "Breaches of orders (3.4/5)",
+      "Assault and related offences (4.4/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Cardinia"
+  },
+  "Monomeith": {
+    "score": 50,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.6/5)",
+      "Breaches of orders (3.0/5)",
+      "Assault and related offences (4.2/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Cardinia"
+  },
+  "Nyora": {
+    "score": 50,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.6/5)",
+      "Burglary/Break and enter (3.0/5)",
+      "Assault and related offences (5.0/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Cardinia"
+  },
+  "Lysterfield South": {
+    "score": 53,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.5/5)",
+      "Burglary/Break and enter (3.5/5)",
+      "Assault and related offences (4.3/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Casey"
+  },
+  "Doveton": {
+    "score": 53,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.3/5)",
+      "Assault and related offences (4.4/5)",
+      "Breaches of orders (3.1/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Casey"
+  },
+  "Eumemmerring": {
+    "score": 53,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.4/5)",
+      "Assault and related offences (4.4/5)",
+      "Breaches of orders (3.3/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Casey"
+  },
+  "Endeavour Hills": {
+    "score": 53,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.3/5)",
+      "Breaches of orders (3.1/5)",
+      "Assault and related offences (4.4/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Casey"
+  },
+  "Hallam": {
+    "score": 53,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.3/5)",
+      "Assault and related offences (4.4/5)",
+      "Breaches of orders (3.2/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Casey"
+  },
+  "Narre Warren North": {
+    "score": 53,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.4/5)",
+      "Burglary/Break and enter (3.3/5)",
+      "Breaches of orders (3.3/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Casey"
+  },
+  "Narre Warren": {
+    "score": 53,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.3/5)",
+      "Assault and related offences (4.4/5)",
+      "Breaches of orders (3.1/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Casey"
+  },
+  "Narre Warren South": {
+    "score": 53,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.3/5)",
+      "Assault and related offences (4.4/5)",
+      "Breaches of orders (3.1/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Casey"
+  },
+  "Berwick": {
+    "score": 53,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.3/5)",
+      "Breaches of orders (3.1/5)",
+      "Assault and related offences (4.4/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Casey"
+  },
+  "Harkaway": {
+    "score": 53,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.6/5)",
+      "Burglary/Break and enter (3.2/5)",
+      "Breaches of orders (3.7/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Casey"
+  },
+  "Pearcedale": {
+    "score": 53,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.4/5)",
+      "Breaches of orders (3.4/5)",
+      "Assault and related offences (4.4/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Casey"
+  },
+  "Lynbrook": {
+    "score": 53,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.3/5)",
+      "Assault and related offences (4.4/5)",
+      "Breaches of orders (3.3/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Casey"
+  },
+  "Lyndhurst": {
+    "score": 53,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.4/5)",
+      "Burglary/Break and enter (3.2/5)",
+      "Assault and related offences (4.4/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Casey"
+  },
+  "Hampton Park": {
+    "score": 53,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.3/5)",
+      "Breaches of orders (3.1/5)",
+      "Assault and related offences (4.4/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Casey"
+  },
+  "Botanic Ridge": {
+    "score": 53,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.5/5)",
+      "Breaches of orders (3.3/5)",
+      "Burglary/Break and enter (3.3/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Casey"
+  },
+  "Cannons Creek": {
+    "score": 53,
+    "label": "yellow",
+    "top_crimes": [
+      "Assault and related offences (4.5/5)",
+      "Theft (2.6/5)",
+      "Burglary/Break and enter (3.3/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Casey"
+  },
+  "Cranbourne": {
+    "score": 53,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.2/5)",
+      "Breaches of orders (3.0/5)",
+      "Assault and related offences (4.4/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Casey"
+  },
+  "Cranbourne East": {
+    "score": 53,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.3/5)",
+      "Assault and related offences (4.4/5)",
+      "Breaches of orders (3.1/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Casey"
+  },
+  "Cranbourne North": {
+    "score": 53,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.3/5)",
+      "Breaches of orders (3.2/5)",
+      "Assault and related offences (4.4/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Casey"
+  },
+  "Cranbourne South": {
+    "score": 53,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.4/5)",
+      "Breaches of orders (3.6/5)",
+      "Burglary/Break and enter (3.3/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Casey"
+  },
+  "Cranbourne West": {
+    "score": 53,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.3/5)",
+      "Breaches of orders (3.2/5)",
+      "Assault and related offences (4.4/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Casey"
+  },
+  "Devon Meadows": {
+    "score": 53,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.5/5)",
+      "Breaches of orders (3.7/5)",
+      "Burglary/Break and enter (3.2/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Casey"
+  },
+  "Junction Village": {
+    "score": 53,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.5/5)",
+      "Breaches of orders (3.9/5)",
+      "Assault and related offences (4.4/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Casey"
+  },
+  "Clyde": {
+    "score": 53,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.4/5)",
+      "Breaches of orders (3.5/5)",
+      "Assault and related offences (4.4/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Casey"
+  },
+  "Clyde North": {
+    "score": 53,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.3/5)",
+      "Breaches of orders (3.1/5)",
+      "Assault and related offences (4.4/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Casey"
+  },
+  "Blind Bight": {
+    "score": 53,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.7/5)",
+      "Breaches of orders (3.6/5)",
+      "Assault and related offences (4.5/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Casey"
+  },
+  "Warneet": {
+    "score": 53,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.7/5)",
+      "Assault and related offences (4.3/5)",
+      "Breaches of orders (4.0/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Casey"
+  },
+  "Northcote": {
+    "score": 75,
+    "label": "orange",
+    "top_crimes": [
+      "Theft (2.3/5)",
+      "Burglary/Break and enter (3.3/5)",
+      "Assault and related offences (4.4/5)"
+    ],
+    "tips": "Exercise caution, especially at night. Stick to well-lit, busy streets.",
+    "lga": "Darebin"
+  },
+  "Thornbury": {
+    "score": 75,
+    "label": "orange",
+    "top_crimes": [
+      "Theft (2.3/5)",
+      "Burglary/Break and enter (3.3/5)",
+      "Breaches of orders (3.1/5)"
+    ],
+    "tips": "Exercise caution, especially at night. Stick to well-lit, busy streets.",
+    "lga": "Darebin"
+  },
+  "Preston": {
+    "score": 75,
+    "label": "orange",
+    "top_crimes": [
+      "Theft (2.2/5)",
+      "Assault and related offences (4.4/5)",
+      "Breaches of orders (3.0/5)"
+    ],
+    "tips": "Exercise caution, especially at night. Stick to well-lit, busy streets.",
+    "lga": "Darebin"
+  },
+  "Reservoir": {
+    "score": 75,
+    "label": "orange",
+    "top_crimes": [
+      "Theft (2.2/5)",
+      "Breaches of orders (3.0/5)",
+      "Assault and related offences (4.4/5)"
+    ],
+    "tips": "Exercise caution, especially at night. Stick to well-lit, busy streets.",
+    "lga": "Darebin"
+  },
+  "Alphington": {
+    "score": 75,
+    "label": "orange",
+    "top_crimes": [
+      "Theft (2.4/5)",
+      "Burglary/Break and enter (3.2/5)",
+      "Assault and related offences (4.4/5)"
+    ],
+    "tips": "Exercise caution, especially at night. Stick to well-lit, busy streets.",
+    "lga": "Darebin"
+  },
+  "Fairfield": {
+    "score": 75,
+    "label": "orange",
+    "top_crimes": [
+      "Theft (2.3/5)",
+      "Burglary/Break and enter (3.2/5)",
+      "Assault and related offences (4.4/5)"
+    ],
+    "tips": "Exercise caution, especially at night. Stick to well-lit, busy streets.",
+    "lga": "Darebin"
+  },
+  "Kingsbury": {
+    "score": 75,
+    "label": "orange",
+    "top_crimes": [
+      "Theft (2.4/5)",
+      "Burglary/Break and enter (3.3/5)",
+      "Assault and related offences (4.4/5)"
+    ],
+    "tips": "Exercise caution, especially at night. Stick to well-lit, busy streets.",
+    "lga": "Darebin"
+  },
+  "Seaford": {
+    "score": 83,
+    "label": "red",
+    "top_crimes": [
+      "Theft (2.3/5)",
+      "Breaches of orders (3.1/5)",
+      "Assault and related offences (4.4/5)"
+    ],
+    "tips": "Higher risk area. Stay alert, travel in groups at night, and keep valuables secure.",
+    "lga": "Frankston"
+  },
+  "Frankston": {
+    "score": 83,
+    "label": "red",
+    "top_crimes": [
+      "Theft (2.2/5)",
+      "Breaches of orders (3.0/5)",
+      "Assault and related offences (4.4/5)"
+    ],
+    "tips": "Higher risk area. Stay alert, travel in groups at night, and keep valuables secure.",
+    "lga": "Frankston"
+  },
+  "Frankston South": {
+    "score": 83,
+    "label": "red",
+    "top_crimes": [
+      "Theft (2.3/5)",
+      "Breaches of orders (3.2/5)",
+      "Burglary/Break and enter (3.3/5)"
+    ],
+    "tips": "Higher risk area. Stay alert, travel in groups at night, and keep valuables secure.",
+    "lga": "Frankston"
+  },
+  "Frankston North": {
+    "score": 83,
+    "label": "red",
+    "top_crimes": [
+      "Breaches of orders (3.2/5)",
+      "Theft (2.3/5)",
+      "Assault and related offences (4.4/5)"
+    ],
+    "tips": "Higher risk area. Stay alert, travel in groups at night, and keep valuables secure.",
+    "lga": "Frankston"
+  },
+  "Carrum Downs": {
+    "score": 83,
+    "label": "red",
+    "top_crimes": [
+      "Theft (2.3/5)",
+      "Breaches of orders (3.1/5)",
+      "Assault and related offences (4.4/5)"
+    ],
+    "tips": "Higher risk area. Stay alert, travel in groups at night, and keep valuables secure.",
+    "lga": "Frankston"
+  },
+  "Langwarrin": {
+    "score": 83,
+    "label": "red",
+    "top_crimes": [
+      "Theft (2.3/5)",
+      "Breaches of orders (3.1/5)",
+      "Assault and related offences (4.4/5)"
+    ],
+    "tips": "Higher risk area. Stay alert, travel in groups at night, and keep valuables secure.",
+    "lga": "Frankston"
+  },
+  "Langwarrin South": {
+    "score": 83,
+    "label": "red",
+    "top_crimes": [
+      "Theft (2.6/5)",
+      "Burglary/Break and enter (3.1/5)",
+      "Assault and related offences (4.3/5)"
+    ],
+    "tips": "Higher risk area. Stay alert, travel in groups at night, and keep valuables secure.",
+    "lga": "Frankston"
+  },
+  "Sandhurst": {
+    "score": 83,
+    "label": "red",
+    "top_crimes": [
+      "Theft (2.5/5)",
+      "Deception (1.9/5)",
+      "Burglary/Break and enter (3.4/5)"
+    ],
+    "tips": "Higher risk area. Stay alert, travel in groups at night, and keep valuables secure.",
+    "lga": "Frankston"
+  },
+  "Skye": {
+    "score": 83,
+    "label": "red",
+    "top_crimes": [
+      "Theft (2.4/5)",
+      "Breaches of orders (3.2/5)",
+      "Assault and related offences (4.4/5)"
+    ],
+    "tips": "Higher risk area. Stay alert, travel in groups at night, and keep valuables secure.",
+    "lga": "Frankston"
+  },
+  "Caulfield East": {
+    "score": 38,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.2/5)",
+      "Assault and related offences (4.4/5)",
+      "Property damage (1.6/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Glen Eira"
+  },
+  "Caulfield North": {
+    "score": 38,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.3/5)",
+      "Burglary/Break and enter (3.3/5)",
+      "Breaches of orders (3.2/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Glen Eira"
+  },
+  "Caulfield": {
+    "score": 38,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.3/5)",
+      "Breaches of orders (3.2/5)",
+      "Assault and related offences (4.4/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Glen Eira"
+  },
+  "Caulfield South": {
+    "score": 38,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.3/5)",
+      "Burglary/Break and enter (3.3/5)",
+      "Breaches of orders (3.2/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Glen Eira"
+  },
+  "Carnegie": {
+    "score": 38,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.3/5)",
+      "Breaches of orders (3.2/5)",
+      "Burglary/Break and enter (3.3/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Glen Eira"
+  },
+  "Glen Huntly": {
+    "score": 38,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.3/5)",
+      "Assault and related offences (4.4/5)",
+      "Burglary/Break and enter (3.3/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Glen Eira"
+  },
+  "Murrumbeena": {
+    "score": 38,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.3/5)",
+      "Breaches of orders (3.2/5)",
+      "Burglary/Break and enter (3.3/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Glen Eira"
+  },
+  "Bentleigh East": {
+    "score": 38,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.3/5)",
+      "Breaches of orders (3.1/5)",
+      "Assault and related offences (4.4/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Glen Eira"
+  },
+  "St Kilda East": {
+    "score": 38,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.4/5)",
+      "Assault and related offences (4.4/5)",
+      "Breaches of orders (3.3/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Glen Eira"
+  },
+  "Elsternwick": {
+    "score": 38,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.3/5)",
+      "Burglary/Break and enter (3.3/5)",
+      "Assault and related offences (4.4/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Glen Eira"
+  },
+  "Gardenvale": {
+    "score": 38,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.4/5)",
+      "Breaches of orders (3.6/5)",
+      "Assault and related offences (4.4/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Glen Eira"
+  },
+  "Bentleigh": {
+    "score": 38,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.2/5)",
+      "Breaches of orders (3.2/5)",
+      "Assault and related offences (4.4/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Glen Eira"
+  },
+  "McKinnon": {
+    "score": 38,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.3/5)",
+      "Breaches of orders (3.3/5)",
+      "Assault and related offences (4.4/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Glen Eira"
+  },
+  "Ormond": {
+    "score": 38,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.3/5)",
+      "Assault and related offences (4.4/5)",
+      "Burglary/Break and enter (3.3/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Glen Eira"
+  },
+  "Springvale": {
+    "score": 91,
+    "label": "red",
+    "top_crimes": [
+      "Theft (2.2/5)",
+      "Assault and related offences (4.4/5)",
+      "Breaches of orders (3.0/5)"
+    ],
+    "tips": "Higher risk area. Stay alert, travel in groups at night, and keep valuables secure.",
+    "lga": "Greater Dandenong"
+  },
+  "Springvale South": {
+    "score": 91,
+    "label": "red",
+    "top_crimes": [
+      "Theft (2.3/5)",
+      "Assault and related offences (4.4/5)",
+      "Breaches of orders (3.1/5)"
+    ],
+    "tips": "Higher risk area. Stay alert, travel in groups at night, and keep valuables secure.",
+    "lga": "Greater Dandenong"
+  },
+  "Keysborough": {
+    "score": 91,
+    "label": "red",
+    "top_crimes": [
+      "Theft (2.3/5)",
+      "Assault and related offences (4.4/5)",
+      "Burglary/Break and enter (3.3/5)"
+    ],
+    "tips": "Higher risk area. Stay alert, travel in groups at night, and keep valuables secure.",
+    "lga": "Greater Dandenong"
+  },
+  "Noble Park": {
+    "score": 91,
+    "label": "red",
+    "top_crimes": [
+      "Theft (2.2/5)",
+      "Breaches of orders (3.1/5)",
+      "Assault and related offences (4.4/5)"
+    ],
+    "tips": "Higher risk area. Stay alert, travel in groups at night, and keep valuables secure.",
+    "lga": "Greater Dandenong"
+  },
+  "Noble Park North": {
+    "score": 91,
+    "label": "red",
+    "top_crimes": [
+      "Theft (2.4/5)",
+      "Breaches of orders (3.3/5)",
+      "Assault and related offences (4.4/5)"
+    ],
+    "tips": "Higher risk area. Stay alert, travel in groups at night, and keep valuables secure.",
+    "lga": "Greater Dandenong"
+  },
+  "Bangholme": {
+    "score": 91,
+    "label": "red",
+    "top_crimes": [
+      "Theft (2.5/5)",
+      "Assault and related offences (4.4/5)",
+      "Dangerous and negligent acts endangering people (4.0/5)"
+    ],
+    "tips": "Higher risk area. Stay alert, travel in groups at night, and keep valuables secure.",
+    "lga": "Greater Dandenong"
+  },
+  "Dandenong": {
+    "score": 91,
+    "label": "red",
+    "top_crimes": [
+      "Theft (2.2/5)",
+      "Breaches of orders (3.0/5)",
+      "Assault and related offences (4.4/5)"
+    ],
+    "tips": "Higher risk area. Stay alert, travel in groups at night, and keep valuables secure.",
+    "lga": "Greater Dandenong"
+  },
+  "Dandenong North": {
+    "score": 91,
+    "label": "red",
+    "top_crimes": [
+      "Theft (2.3/5)",
+      "Breaches of orders (3.1/5)",
+      "Assault and related offences (4.4/5)"
+    ],
+    "tips": "Higher risk area. Stay alert, travel in groups at night, and keep valuables secure.",
+    "lga": "Greater Dandenong"
+  },
+  "Dandenong South": {
+    "score": 91,
+    "label": "red",
+    "top_crimes": [
+      "Theft (2.4/5)",
+      "Burglary/Break and enter (3.1/5)",
+      "Assault and related offences (4.4/5)"
+    ],
+    "tips": "Higher risk area. Stay alert, travel in groups at night, and keep valuables secure.",
+    "lga": "Greater Dandenong"
+  },
+  "Newport": {
+    "score": 53,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.3/5)",
+      "Breaches of orders (3.2/5)",
+      "Assault and related offences (4.4/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Hobsons Bay"
+  },
+  "South Kingsville": {
+    "score": 53,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.4/5)",
+      "Breaches of orders (3.8/5)",
+      "Burglary/Break and enter (3.2/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Hobsons Bay"
+  },
+  "Spotswood": {
+    "score": 53,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.3/5)",
+      "Burglary/Break and enter (3.2/5)",
+      "Assault and related offences (4.4/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Hobsons Bay"
+  },
+  "Williamstown": {
+    "score": 53,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.3/5)",
+      "Breaches of orders (3.1/5)",
+      "Assault and related offences (4.4/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Hobsons Bay"
+  },
+  "Williamstown North": {
+    "score": 53,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.4/5)",
+      "Burglary/Break and enter (3.2/5)",
+      "Assault and related offences (4.4/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Hobsons Bay"
+  },
+  "Altona": {
+    "score": 53,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.3/5)",
+      "Assault and related offences (4.4/5)",
+      "Breaches of orders (3.2/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Hobsons Bay"
+  },
+  "Seaholme": {
+    "score": 53,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.4/5)",
+      "Assault and related offences (4.3/5)",
+      "Burglary/Break and enter (3.2/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Hobsons Bay"
+  },
+  "Altona North": {
+    "score": 53,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.3/5)",
+      "Breaches of orders (3.2/5)",
+      "Assault and related offences (4.4/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Hobsons Bay"
+  },
+  "Altona Meadows": {
+    "score": 53,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.3/5)",
+      "Breaches of orders (3.2/5)",
+      "Assault and related offences (4.4/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Hobsons Bay"
+  },
+  "Laverton": {
+    "score": 53,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.4/5)",
+      "Assault and related offences (4.5/5)",
+      "Breaches of orders (3.1/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Hobsons Bay"
+  },
+  "Seabrook": {
+    "score": 53,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.4/5)",
+      "Assault and related offences (4.4/5)",
+      "Breaches of orders (3.4/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Hobsons Bay"
+  },
+  "Gladstone Park": {
+    "score": 69,
+    "label": "orange",
+    "top_crimes": [
+      "Theft (2.4/5)",
+      "Breaches of orders (3.3/5)",
+      "Assault and related offences (4.4/5)"
+    ],
+    "tips": "Exercise caution, especially at night. Stick to well-lit, busy streets.",
+    "lga": "Hume"
+  },
+  "Melbourne Airport": {
+    "score": 69,
+    "label": "orange",
+    "top_crimes": [
+      "Theft (2.4/5)",
+      "Weapons and explosives offences (4.0/5)",
+      "Assault and related offences (4.3/5)"
+    ],
+    "tips": "Exercise caution, especially at night. Stick to well-lit, busy streets.",
+    "lga": "Hume"
+  },
+  "Broadmeadows": {
+    "score": 69,
+    "label": "orange",
+    "top_crimes": [
+      "Theft (2.2/5)",
+      "Breaches of orders (3.0/5)",
+      "Assault and related offences (4.4/5)"
+    ],
+    "tips": "Exercise caution, especially at night. Stick to well-lit, busy streets.",
+    "lga": "Hume"
+  },
+  "Dallas": {
+    "score": 69,
+    "label": "orange",
+    "top_crimes": [
+      "Theft (2.4/5)",
+      "Assault and related offences (4.4/5)",
+      "Breaches of orders (3.0/5)"
+    ],
+    "tips": "Exercise caution, especially at night. Stick to well-lit, busy streets.",
+    "lga": "Hume"
+  },
+  "Jacana": {
+    "score": 69,
+    "label": "orange",
+    "top_crimes": [
+      "Theft (2.3/5)",
+      "Breaches of orders (3.2/5)",
+      "Assault and related offences (4.4/5)"
+    ],
+    "tips": "Exercise caution, especially at night. Stick to well-lit, busy streets.",
+    "lga": "Hume"
+  },
+  "Coolaroo": {
+    "score": 69,
+    "label": "orange",
+    "top_crimes": [
+      "Theft (2.2/5)",
+      "Assault and related offences (4.4/5)",
+      "Breaches of orders (3.1/5)"
+    ],
+    "tips": "Exercise caution, especially at night. Stick to well-lit, busy streets.",
+    "lga": "Hume"
+  },
+  "Meadow Heights": {
+    "score": 69,
+    "label": "orange",
+    "top_crimes": [
+      "Breaches of orders (3.1/5)",
+      "Theft (2.3/5)",
+      "Assault and related offences (4.4/5)"
+    ],
+    "tips": "Exercise caution, especially at night. Stick to well-lit, busy streets.",
+    "lga": "Hume"
+  },
+  "Attwood": {
+    "score": 69,
+    "label": "orange",
+    "top_crimes": [
+      "Theft (2.5/5)",
+      "Breaches of orders (3.2/5)",
+      "Assault and related offences (4.5/5)"
+    ],
+    "tips": "Exercise caution, especially at night. Stick to well-lit, busy streets.",
+    "lga": "Hume"
+  },
+  "Westmeadows": {
+    "score": 69,
+    "label": "orange",
+    "top_crimes": [
+      "Theft (2.4/5)",
+      "Breaches of orders (3.1/5)",
+      "Assault and related offences (4.4/5)"
+    ],
+    "tips": "Exercise caution, especially at night. Stick to well-lit, busy streets.",
+    "lga": "Hume"
+  },
+  "Greenvale": {
+    "score": 69,
+    "label": "orange",
+    "top_crimes": [
+      "Theft (2.4/5)",
+      "Breaches of orders (3.1/5)",
+      "Burglary/Break and enter (3.3/5)"
+    ],
+    "tips": "Exercise caution, especially at night. Stick to well-lit, busy streets.",
+    "lga": "Hume"
+  },
+  "Fawkner": {
+    "score": 69,
+    "label": "orange",
+    "top_crimes": [
+      "Theft (2.3/5)",
+      "Breaches of orders (3.1/5)",
+      "Assault and related offences (4.4/5)"
+    ],
+    "tips": "Exercise caution, especially at night. Stick to well-lit, busy streets.",
+    "lga": "Hume"
+  },
+  "Campbellfield": {
+    "score": 69,
+    "label": "orange",
+    "top_crimes": [
+      "Theft (2.3/5)",
+      "Burglary/Break and enter (3.3/5)",
+      "Assault and related offences (4.4/5)"
+    ],
+    "tips": "Exercise caution, especially at night. Stick to well-lit, busy streets.",
+    "lga": "Hume"
+  },
+  "Somerton": {
+    "score": 69,
+    "label": "orange",
+    "top_crimes": [
+      "Theft (2.4/5)",
+      "Assault and related offences (4.4/5)",
+      "Burglary/Break and enter (3.0/5)"
+    ],
+    "tips": "Exercise caution, especially at night. Stick to well-lit, busy streets.",
+    "lga": "Hume"
+  },
+  "Oaklands Junction": {
+    "score": 69,
+    "label": "orange",
+    "top_crimes": [
+      "Theft (2.6/5)",
+      "Assault and related offences (4.6/5)",
+      "Arson (4.0/5)"
+    ],
+    "tips": "Exercise caution, especially at night. Stick to well-lit, busy streets.",
+    "lga": "Hume"
+  },
+  "Yuroke": {
+    "score": 69,
+    "label": "orange",
+    "top_crimes": [
+      "Theft (2.4/5)",
+      "Burglary/Break and enter (3.1/5)",
+      "Assault and related offences (4.4/5)"
+    ],
+    "tips": "Exercise caution, especially at night. Stick to well-lit, busy streets.",
+    "lga": "Hume"
+  },
+  "Craigieburn": {
+    "score": 69,
+    "label": "orange",
+    "top_crimes": [
+      "Theft (2.2/5)",
+      "Breaches of orders (3.1/5)",
+      "Assault and related offences (4.4/5)"
+    ],
+    "tips": "Exercise caution, especially at night. Stick to well-lit, busy streets.",
+    "lga": "Hume"
+  },
+  "Kalkallo": {
+    "score": 69,
+    "label": "orange",
+    "top_crimes": [
+      "Theft (2.4/5)",
+      "Assault and related offences (4.5/5)",
+      "Breaches of orders (3.1/5)"
+    ],
+    "tips": "Exercise caution, especially at night. Stick to well-lit, busy streets.",
+    "lga": "Hume"
+  },
+  "Mickleham": {
+    "score": 69,
+    "label": "orange",
+    "top_crimes": [
+      "Theft (2.4/5)",
+      "Assault and related offences (4.4/5)",
+      "Breaches of orders (3.1/5)"
+    ],
+    "tips": "Exercise caution, especially at night. Stick to well-lit, busy streets.",
+    "lga": "Hume"
+  },
+  "Roxburgh Park": {
+    "score": 69,
+    "label": "orange",
+    "top_crimes": [
+      "Theft (2.3/5)",
+      "Breaches of orders (3.1/5)",
+      "Assault and related offences (4.4/5)"
+    ],
+    "tips": "Exercise caution, especially at night. Stick to well-lit, busy streets.",
+    "lga": "Hume"
+  },
+  "Diggers Rest": {
+    "score": 69,
+    "label": "orange",
+    "top_crimes": [
+      "Theft (2.5/5)",
+      "Breaches of orders (3.4/5)",
+      "Assault and related offences (4.5/5)"
+    ],
+    "tips": "Exercise caution, especially at night. Stick to well-lit, busy streets.",
+    "lga": "Hume"
+  },
+  "Bulla": {
+    "score": 69,
+    "label": "orange",
+    "top_crimes": [
+      "Theft (2.5/5)",
+      "Breaches of orders (3.6/5)",
+      "Assault and related offences (4.5/5)"
+    ],
+    "tips": "Exercise caution, especially at night. Stick to well-lit, busy streets.",
+    "lga": "Hume"
+  },
+  "Sunbury": {
+    "score": 69,
+    "label": "orange",
+    "top_crimes": [
+      "Theft (2.3/5)",
+      "Breaches of orders (3.0/5)",
+      "Assault and related offences (4.4/5)"
+    ],
+    "tips": "Exercise caution, especially at night. Stick to well-lit, busy streets.",
+    "lga": "Hume"
+  },
+  "Wildwood": {
+    "score": 69,
+    "label": "orange",
+    "top_crimes": [
+      "Theft (2.6/5)",
+      "Burglary/Break and enter (3.0/5)",
+      "Weapons and explosives offences (4.0/5)"
+    ],
+    "tips": "Exercise caution, especially at night. Stick to well-lit, busy streets.",
+    "lga": "Hume"
+  },
+  "Clarkefield": {
+    "score": 69,
+    "label": "orange",
+    "top_crimes": [
+      "Breaches of orders (4.0/5)",
+      "Theft (2.6/5)",
+      "Stalking, harassment and threatening behaviour (4.0/5)"
+    ],
+    "tips": "Exercise caution, especially at night. Stick to well-lit, busy streets.",
+    "lga": "Hume"
+  },
+  "Oakleigh South": {
+    "score": 55,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.4/5)",
+      "Assault and related offences (4.4/5)",
+      "Breaches of orders (3.4/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Kingston"
+  },
+  "Clarinda": {
+    "score": 55,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.3/5)",
+      "Breaches of orders (3.3/5)",
+      "Assault and related offences (4.4/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Kingston"
+  },
+  "Clayton South": {
+    "score": 55,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.3/5)",
+      "Assault and related offences (4.4/5)",
+      "Breaches of orders (3.1/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Kingston"
+  },
+  "Dingley Village": {
+    "score": 55,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.3/5)",
+      "Burglary/Break and enter (3.3/5)",
+      "Assault and related offences (4.4/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Kingston"
+  },
+  "Moorabbin": {
+    "score": 55,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.3/5)",
+      "Breaches of orders (3.0/5)",
+      "Assault and related offences (4.4/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Kingston"
+  },
+  "Mentone": {
+    "score": 55,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.3/5)",
+      "Breaches of orders (3.2/5)",
+      "Assault and related offences (4.4/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Kingston"
+  },
+  "Moorabbin Airport": {
+    "score": 55,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.4/5)",
+      "Burglary/Break and enter (3.0/5)",
+      "Assault and related offences (4.2/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Kingston"
+  },
+  "Aspendale": {
+    "score": 55,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.3/5)",
+      "Breaches of orders (3.2/5)",
+      "Assault and related offences (4.4/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Kingston"
+  },
+  "Aspendale Gardens": {
+    "score": 55,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.4/5)",
+      "Assault and related offences (4.4/5)",
+      "Breaches of orders (3.4/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Kingston"
+  },
+  "Braeside": {
+    "score": 55,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.4/5)",
+      "Burglary/Break and enter (3.0/5)",
+      "Breaches of orders (3.3/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Kingston"
+  },
+  "Mordialloc": {
+    "score": 55,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.3/5)",
+      "Breaches of orders (3.1/5)",
+      "Assault and related offences (4.4/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Kingston"
+  },
+  "Parkdale": {
+    "score": 55,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.3/5)",
+      "Breaches of orders (3.2/5)",
+      "Assault and related offences (4.4/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Kingston"
+  },
+  "Waterways": {
+    "score": 55,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.6/5)",
+      "Burglary/Break and enter (3.4/5)",
+      "Assault and related offences (4.5/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Kingston"
+  },
+  "Bonbeach": {
+    "score": 55,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.3/5)",
+      "Breaches of orders (3.3/5)",
+      "Assault and related offences (4.4/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Kingston"
+  },
+  "Chelsea": {
+    "score": 55,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.3/5)",
+      "Breaches of orders (3.2/5)",
+      "Assault and related offences (4.4/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Kingston"
+  },
+  "Chelsea Heights": {
+    "score": 55,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.3/5)",
+      "Breaches of orders (3.2/5)",
+      "Assault and related offences (4.4/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Kingston"
+  },
+  "Edithvale": {
+    "score": 55,
+    "label": "yellow",
+    "top_crimes": [
+      "Breaches of orders (3.2/5)",
+      "Theft (2.3/5)",
+      "Assault and related offences (4.4/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Kingston"
+  },
+  "Carrum": {
+    "score": 55,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.3/5)",
+      "Breaches of orders (3.3/5)",
+      "Assault and related offences (4.4/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Kingston"
+  },
+  "Patterson Lakes": {
+    "score": 55,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.3/5)",
+      "Breaches of orders (3.4/5)",
+      "Assault and related offences (4.4/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Kingston"
+  },
+  "Heatherton": {
+    "score": 55,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.3/5)",
+      "Breaches of orders (3.3/5)",
+      "Assault and related offences (4.4/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Kingston"
+  },
+  "Wantirna": {
+    "score": 52,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.3/5)",
+      "Breaches of orders (3.2/5)",
+      "Assault and related offences (4.4/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Knox"
+  },
+  "Wantirna South": {
+    "score": 52,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.4/5)",
+      "Assault and related offences (4.4/5)",
+      "Breaches of orders (3.2/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Knox"
+  },
+  "Bayswater": {
+    "score": 52,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.3/5)",
+      "Breaches of orders (3.1/5)",
+      "Assault and related offences (4.4/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Knox"
+  },
+  "The Basin": {
+    "score": 52,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.4/5)",
+      "Assault and related offences (4.5/5)",
+      "Breaches of orders (3.2/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Knox"
+  },
+  "Boronia": {
+    "score": 52,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.2/5)",
+      "Breaches of orders (3.1/5)",
+      "Assault and related offences (4.4/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Knox"
+  },
+  "Ferntree Gully": {
+    "score": 52,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.3/5)",
+      "Breaches of orders (3.1/5)",
+      "Assault and related offences (4.4/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Knox"
+  },
+  "Lysterfield": {
+    "score": 52,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.4/5)",
+      "Burglary/Break and enter (3.3/5)",
+      "Assault and related offences (4.4/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Knox"
+  },
+  "Upper Ferntree Gully": {
+    "score": 52,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.4/5)",
+      "Breaches of orders (3.5/5)",
+      "Assault and related offences (4.4/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Knox"
+  },
+  "Rowville": {
+    "score": 52,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.3/5)",
+      "Breaches of orders (3.1/5)",
+      "Assault and related offences (4.4/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Knox"
+  },
+  "Scoresby": {
+    "score": 52,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.3/5)",
+      "Breaches of orders (3.2/5)",
+      "Assault and related offences (4.4/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Knox"
+  },
+  "Knoxfield": {
+    "score": 52,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.3/5)",
+      "Burglary/Break and enter (3.3/5)",
+      "Breaches of orders (3.2/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Knox"
+  },
+  "Bulleen": {
+    "score": 30,
+    "label": "green",
+    "top_crimes": [
+      "Theft (2.4/5)",
+      "Burglary/Break and enter (3.2/5)",
+      "Assault and related offences (4.5/5)"
+    ],
+    "tips": "Safe and family-friendly area. Standard precautions apply as with any urban environment.",
+    "lga": "Manningham"
+  },
+  "Templestowe": {
+    "score": 30,
+    "label": "green",
+    "top_crimes": [
+      "Theft (2.4/5)",
+      "Burglary/Break and enter (3.3/5)",
+      "Breaches of orders (3.4/5)"
+    ],
+    "tips": "Safe and family-friendly area. Standard precautions apply as with any urban environment.",
+    "lga": "Manningham"
+  },
+  "Doncaster": {
+    "score": 30,
+    "label": "green",
+    "top_crimes": [
+      "Theft (2.4/5)",
+      "Burglary/Break and enter (3.2/5)",
+      "Assault and related offences (4.4/5)"
+    ],
+    "tips": "Safe and family-friendly area. Standard precautions apply as with any urban environment.",
+    "lga": "Manningham"
+  },
+  "Templestowe Lower": {
+    "score": 30,
+    "label": "green",
+    "top_crimes": [
+      "Theft (2.4/5)",
+      "Burglary/Break and enter (3.3/5)",
+      "Assault and related offences (4.4/5)"
+    ],
+    "tips": "Safe and family-friendly area. Standard precautions apply as with any urban environment.",
+    "lga": "Manningham"
+  },
+  "Doncaster East": {
+    "score": 30,
+    "label": "green",
+    "top_crimes": [
+      "Theft (2.3/5)",
+      "Burglary/Break and enter (3.3/5)",
+      "Assault and related offences (4.4/5)"
+    ],
+    "tips": "Safe and family-friendly area. Standard precautions apply as with any urban environment.",
+    "lga": "Manningham"
+  },
+  "Donvale": {
+    "score": 30,
+    "label": "green",
+    "top_crimes": [
+      "Theft (2.4/5)",
+      "Burglary/Break and enter (3.3/5)",
+      "Assault and related offences (4.4/5)"
+    ],
+    "tips": "Safe and family-friendly area. Standard precautions apply as with any urban environment.",
+    "lga": "Manningham"
+  },
+  "Warrandyte": {
+    "score": 30,
+    "label": "green",
+    "top_crimes": [
+      "Theft (2.4/5)",
+      "Burglary/Break and enter (3.3/5)",
+      "Assault and related offences (4.4/5)"
+    ],
+    "tips": "Safe and family-friendly area. Standard precautions apply as with any urban environment.",
+    "lga": "Manningham"
+  },
+  "Park Orchards": {
+    "score": 30,
+    "label": "green",
+    "top_crimes": [
+      "Theft (2.4/5)",
+      "Burglary/Break and enter (3.3/5)",
+      "Breaches of orders (3.7/5)"
+    ],
+    "tips": "Safe and family-friendly area. Standard precautions apply as with any urban environment.",
+    "lga": "Manningham"
+  },
+  "Wonga Park": {
+    "score": 30,
+    "label": "green",
+    "top_crimes": [
+      "Theft (2.6/5)",
+      "Breaches of orders (3.6/5)",
+      "Burglary/Break and enter (3.2/5)"
+    ],
+    "tips": "Safe and family-friendly area. Standard precautions apply as with any urban environment.",
+    "lga": "Manningham"
+  },
+  "Nunawading": {
+    "score": 30,
+    "label": "green",
+    "top_crimes": [
+      "Theft (2.4/5)",
+      "Breaches of orders (3.1/5)",
+      "Assault and related offences (4.4/5)"
+    ],
+    "tips": "Safe and family-friendly area. Standard precautions apply as with any urban environment.",
+    "lga": "Manningham"
+  },
+  "Ringwood North": {
+    "score": 30,
+    "label": "green",
+    "top_crimes": [
+      "Theft (2.4/5)",
+      "Breaches of orders (3.4/5)",
+      "Assault and related offences (4.4/5)"
+    ],
+    "tips": "Safe and family-friendly area. Standard precautions apply as with any urban environment.",
+    "lga": "Manningham"
+  },
+  "Warrandyte South": {
+    "score": 30,
+    "label": "green",
+    "top_crimes": [
+      "Theft (2.5/5)",
+      "Burglary/Break and enter (3.1/5)",
+      "Assault and related offences (4.1/5)"
+    ],
+    "tips": "Safe and family-friendly area. Standard precautions apply as with any urban environment.",
+    "lga": "Manningham"
+  },
+  "Footscray": {
+    "score": 81,
+    "label": "red",
+    "top_crimes": [
+      "Theft (2.2/5)",
+      "Assault and related offences (4.4/5)",
+      "Burglary/Break and enter (3.2/5)"
+    ],
+    "tips": "Higher risk area. Stay alert, travel in groups at night, and keep valuables secure.",
+    "lga": "Maribyrnong"
+  },
+  "Seddon": {
+    "score": 81,
+    "label": "red",
+    "top_crimes": [
+      "Theft (2.3/5)",
+      "Breaches of orders (3.2/5)",
+      "Assault and related offences (4.4/5)"
+    ],
+    "tips": "Higher risk area. Stay alert, travel in groups at night, and keep valuables secure.",
+    "lga": "Maribyrnong"
+  },
+  "Kingsville": {
+    "score": 81,
+    "label": "red",
+    "top_crimes": [
+      "Theft (2.4/5)",
+      "Burglary/Break and enter (3.3/5)",
+      "Breaches of orders (3.3/5)"
+    ],
+    "tips": "Higher risk area. Stay alert, travel in groups at night, and keep valuables secure.",
+    "lga": "Maribyrnong"
+  },
+  "Maidstone": {
+    "score": 81,
+    "label": "red",
+    "top_crimes": [
+      "Theft (2.3/5)",
+      "Burglary/Break and enter (3.3/5)",
+      "Assault and related offences (4.4/5)"
+    ],
+    "tips": "Higher risk area. Stay alert, travel in groups at night, and keep valuables secure.",
+    "lga": "Maribyrnong"
+  },
+  "Tottenham": {
+    "score": 81,
+    "label": "red",
+    "top_crimes": [
+      "Theft (2.4/5)",
+      "Burglary/Break and enter (3.1/5)",
+      "Deception (1.8/5)"
+    ],
+    "tips": "Higher risk area. Stay alert, travel in groups at night, and keep valuables secure.",
+    "lga": "Maribyrnong"
+  },
+  "West Footscray": {
+    "score": 81,
+    "label": "red",
+    "top_crimes": [
+      "Theft (2.3/5)",
+      "Burglary/Break and enter (3.3/5)",
+      "Assault and related offences (4.4/5)"
+    ],
+    "tips": "Higher risk area. Stay alert, travel in groups at night, and keep valuables secure.",
+    "lga": "Maribyrnong"
+  },
+  "Yarraville": {
+    "score": 81,
+    "label": "red",
+    "top_crimes": [
+      "Theft (2.3/5)",
+      "Burglary/Break and enter (3.3/5)",
+      "Breaches of orders (3.1/5)"
+    ],
+    "tips": "Higher risk area. Stay alert, travel in groups at night, and keep valuables secure.",
+    "lga": "Maribyrnong"
+  },
+  "Braybrook": {
+    "score": 81,
+    "label": "red",
+    "top_crimes": [
+      "Theft (2.3/5)",
+      "Assault and related offences (4.4/5)",
+      "Burglary/Break and enter (3.3/5)"
+    ],
+    "tips": "Higher risk area. Stay alert, travel in groups at night, and keep valuables secure.",
+    "lga": "Maribyrnong"
+  },
+  "Maribyrnong": {
+    "score": 81,
+    "label": "red",
+    "top_crimes": [
+      "Theft (2.3/5)",
+      "Burglary/Break and enter (3.3/5)",
+      "Assault and related offences (4.4/5)"
+    ],
+    "tips": "Higher risk area. Stay alert, travel in groups at night, and keep valuables secure.",
+    "lga": "Maribyrnong"
+  },
+  "Vermont": {
+    "score": 54,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.4/5)",
+      "Breaches of orders (3.3/5)",
+      "Assault and related offences (4.4/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Maroondah"
+  },
+  "Ringwood": {
+    "score": 54,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.2/5)",
+      "Breaches of orders (3.0/5)",
+      "Assault and related offences (4.4/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Maroondah"
+  },
+  "Warranwood": {
+    "score": 54,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.6/5)",
+      "Breaches of orders (3.7/5)",
+      "Assault and related offences (4.4/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Maroondah"
+  },
+  "Heathmont": {
+    "score": 54,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.3/5)",
+      "Breaches of orders (3.4/5)",
+      "Assault and related offences (4.4/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Maroondah"
+  },
+  "Ringwood East": {
+    "score": 54,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.3/5)",
+      "Assault and related offences (4.4/5)",
+      "Breaches of orders (3.3/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Maroondah"
+  },
+  "Croydon": {
+    "score": 54,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.3/5)",
+      "Breaches of orders (3.1/5)",
+      "Assault and related offences (4.4/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Maroondah"
+  },
+  "Croydon Hills": {
+    "score": 54,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.5/5)",
+      "Breaches of orders (3.6/5)",
+      "Assault and related offences (4.4/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Maroondah"
+  },
+  "Croydon North": {
+    "score": 54,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.4/5)",
+      "Breaches of orders (3.5/5)",
+      "Assault and related offences (4.4/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Maroondah"
+  },
+  "Croydon South": {
+    "score": 54,
+    "label": "yellow",
+    "top_crimes": [
+      "Breaches of orders (3.4/5)",
+      "Theft (2.4/5)",
+      "Assault and related offences (4.4/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Maroondah"
+  },
+  "Kilsyth": {
+    "score": 54,
+    "label": "yellow",
+    "top_crimes": [
+      "Breaches of orders (3.3/5)",
+      "Theft (2.4/5)",
+      "Assault and related offences (4.4/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Maroondah"
+  },
+  "Kilsyth South": {
+    "score": 54,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.4/5)",
+      "Breaches of orders (3.4/5)",
+      "Assault and related offences (4.4/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Maroondah"
+  },
+  "Bayswater North": {
+    "score": 54,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.3/5)",
+      "Breaches of orders (3.1/5)",
+      "Assault and related offences (4.4/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Maroondah"
+  },
+  "Carlton": {
+    "score": 100,
+    "label": "red",
+    "top_crimes": [
+      "Theft (2.3/5)",
+      "Assault and related offences (4.4/5)",
+      "Burglary/Break and enter (3.2/5)"
+    ],
+    "tips": "Higher risk area. Stay alert, travel in groups at night, and keep valuables secure.",
+    "lga": "Melbourne"
+  },
+  "Melbourne": {
+    "score": 100,
+    "label": "red",
+    "top_crimes": [
+      "Theft (2.3/5)",
+      "Assault and related offences (4.4/5)",
+      "Breaches of orders (3.1/5)"
+    ],
+    "tips": "Higher risk area. Stay alert, travel in groups at night, and keep valuables secure.",
+    "lga": "Melbourne"
+  },
+  "East Melbourne": {
+    "score": 100,
+    "label": "red",
+    "top_crimes": [
+      "Theft (2.3/5)",
+      "Assault and related offences (4.4/5)",
+      "Burglary/Break and enter (3.3/5)"
+    ],
+    "tips": "Higher risk area. Stay alert, travel in groups at night, and keep valuables secure.",
+    "lga": "Melbourne"
+  },
+  "West Melbourne": {
+    "score": 100,
+    "label": "red",
+    "top_crimes": [
+      "Theft (2.2/5)",
+      "Assault and related offences (4.4/5)",
+      "Burglary/Break and enter (3.2/5)"
+    ],
+    "tips": "Higher risk area. Stay alert, travel in groups at night, and keep valuables secure.",
+    "lga": "Melbourne"
+  },
+  "South Wharf": {
+    "score": 100,
+    "label": "red",
+    "top_crimes": [
+      "Theft (2.3/5)",
+      "Assault and related offences (4.4/5)",
+      "Deception (1.9/5)"
+    ],
+    "tips": "Higher risk area. Stay alert, travel in groups at night, and keep valuables secure.",
+    "lga": "Melbourne"
+  },
+  "Southbank": {
+    "score": 100,
+    "label": "red",
+    "top_crimes": [
+      "Theft (2.3/5)",
+      "Assault and related offences (4.4/5)",
+      "Deception (1.8/5)"
+    ],
+    "tips": "Higher risk area. Stay alert, travel in groups at night, and keep valuables secure.",
+    "lga": "Melbourne"
+  },
+  "Docklands": {
+    "score": 100,
+    "label": "red",
+    "top_crimes": [
+      "Theft (2.2/5)",
+      "Assault and related offences (4.4/5)",
+      "Deception (1.8/5)"
+    ],
+    "tips": "Higher risk area. Stay alert, travel in groups at night, and keep valuables secure.",
+    "lga": "Melbourne"
+  },
+  "Flemington": {
+    "score": 100,
+    "label": "red",
+    "top_crimes": [
+      "Theft (2.3/5)",
+      "Assault and related offences (4.4/5)",
+      "Breaches of orders (3.2/5)"
+    ],
+    "tips": "Higher risk area. Stay alert, travel in groups at night, and keep valuables secure.",
+    "lga": "Melbourne"
+  },
+  "Kensington": {
+    "score": 100,
+    "label": "red",
+    "top_crimes": [
+      "Theft (2.3/5)",
+      "Assault and related offences (4.4/5)",
+      "Burglary/Break and enter (3.3/5)"
+    ],
+    "tips": "Higher risk area. Stay alert, travel in groups at night, and keep valuables secure.",
+    "lga": "Melbourne"
+  },
+  "North Melbourne": {
+    "score": 100,
+    "label": "red",
+    "top_crimes": [
+      "Theft (2.2/5)",
+      "Assault and related offences (4.4/5)",
+      "Breaches of orders (3.1/5)"
+    ],
+    "tips": "Higher risk area. Stay alert, travel in groups at night, and keep valuables secure.",
+    "lga": "Melbourne"
+  },
+  "Parkville": {
+    "score": 100,
+    "label": "red",
+    "top_crimes": [
+      "Theft (2.3/5)",
+      "Assault and related offences (4.4/5)",
+      "Burglary/Break and enter (3.3/5)"
+    ],
+    "tips": "Higher risk area. Stay alert, travel in groups at night, and keep valuables secure.",
+    "lga": "Melbourne"
+  },
+  "Carlton North": {
+    "score": 100,
+    "label": "red",
+    "top_crimes": [
+      "Theft (2.4/5)",
+      "Burglary/Break and enter (3.2/5)",
+      "Breaches of orders (3.4/5)"
+    ],
+    "tips": "Higher risk area. Stay alert, travel in groups at night, and keep valuables secure.",
+    "lga": "Melbourne"
+  },
+  "South Yarra": {
+    "score": 100,
+    "label": "red",
+    "top_crimes": [
+      "Theft (2.3/5)",
+      "Assault and related offences (4.4/5)",
+      "Burglary/Break and enter (3.3/5)"
+    ],
+    "tips": "Higher risk area. Stay alert, travel in groups at night, and keep valuables secure.",
+    "lga": "Melbourne"
+  },
+  "Port Melbourne": {
+    "score": 100,
+    "label": "red",
+    "top_crimes": [
+      "Theft (2.3/5)",
+      "Burglary/Break and enter (3.2/5)",
+      "Assault and related offences (4.4/5)"
+    ],
+    "tips": "Higher risk area. Stay alert, travel in groups at night, and keep valuables secure.",
+    "lga": "Melbourne"
+  },
+  "Burnside": {
+    "score": 60,
+    "label": "orange",
+    "top_crimes": [
+      "Theft (2.4/5)",
+      "Breaches of orders (3.4/5)",
+      "Assault and related offences (4.5/5)"
+    ],
+    "tips": "Exercise caution, especially at night. Stick to well-lit, busy streets.",
+    "lga": "Melton"
+  },
+  "Burnside Heights": {
+    "score": 60,
+    "label": "orange",
+    "top_crimes": [
+      "Theft (2.5/5)",
+      "Breaches of orders (3.3/5)",
+      "Assault and related offences (4.4/5)"
+    ],
+    "tips": "Exercise caution, especially at night. Stick to well-lit, busy streets.",
+    "lga": "Melton"
+  },
+  "Caroline Springs": {
+    "score": 60,
+    "label": "orange",
+    "top_crimes": [
+      "Theft (2.3/5)",
+      "Breaches of orders (3.0/5)",
+      "Assault and related offences (4.4/5)"
+    ],
+    "tips": "Exercise caution, especially at night. Stick to well-lit, busy streets.",
+    "lga": "Melton"
+  },
+  "Ravenhall": {
+    "score": 60,
+    "label": "orange",
+    "top_crimes": [
+      "Theft (2.3/5)",
+      "Breaches of orders (3.3/5)",
+      "Burglary/Break and enter (3.0/5)"
+    ],
+    "tips": "Exercise caution, especially at night. Stick to well-lit, busy streets.",
+    "lga": "Melton"
+  },
+  "Mount Cottrell": {
+    "score": 60,
+    "label": "orange",
+    "top_crimes": [
+      "Theft (2.5/5)",
+      "Burglary/Break and enter (3.1/5)",
+      "Arson (3.7/5)"
+    ],
+    "tips": "Exercise caution, especially at night. Stick to well-lit, busy streets.",
+    "lga": "Melton"
+  },
+  "Truganina": {
+    "score": 60,
+    "label": "orange",
+    "top_crimes": [
+      "Theft (2.4/5)",
+      "Breaches of orders (3.1/5)",
+      "Assault and related offences (4.4/5)"
+    ],
+    "tips": "Exercise caution, especially at night. Stick to well-lit, busy streets.",
+    "lga": "Melton"
+  },
+  "Taylors Hill": {
+    "score": 60,
+    "label": "orange",
+    "top_crimes": [
+      "Theft (2.4/5)",
+      "Breaches of orders (3.4/5)",
+      "Assault and related offences (4.4/5)"
+    ],
+    "tips": "Exercise caution, especially at night. Stick to well-lit, busy streets.",
+    "lga": "Melton"
+  },
+  "Bonnie Brook": {
+    "score": 60,
+    "label": "orange",
+    "top_crimes": [
+      "Theft (2.5/5)",
+      "Burglary/Break and enter (3.2/5)",
+      "Breaches of orders (3.7/5)"
+    ],
+    "tips": "Exercise caution, especially at night. Stick to well-lit, busy streets.",
+    "lga": "Melton"
+  },
+  "Grangefields": {
+    "score": 60,
+    "label": "orange",
+    "top_crimes": [
+      "Theft (2.4/5)",
+      "Dangerous and negligent acts endangering people (4.0/5)",
+      "Assault and related offences (4.3/5)"
+    ],
+    "tips": "Exercise caution, especially at night. Stick to well-lit, busy streets.",
+    "lga": "Melton"
+  },
+  "Plumpton": {
+    "score": 60,
+    "label": "orange",
+    "top_crimes": [
+      "Theft (2.5/5)",
+      "Burglary/Break and enter (3.0/5)",
+      "Breaches of orders (4.0/5)"
+    ],
+    "tips": "Exercise caution, especially at night. Stick to well-lit, busy streets.",
+    "lga": "Melton"
+  },
+  "Rockbank": {
+    "score": 60,
+    "label": "orange",
+    "top_crimes": [
+      "Theft (2.5/5)",
+      "Assault and related offences (4.5/5)",
+      "Burglary/Break and enter (3.3/5)"
+    ],
+    "tips": "Exercise caution, especially at night. Stick to well-lit, busy streets.",
+    "lga": "Melton"
+  },
+  "Thornhill Park": {
+    "score": 60,
+    "label": "orange",
+    "top_crimes": [
+      "Theft (2.4/5)",
+      "Breaches of orders (3.3/5)",
+      "Assault and related offences (4.4/5)"
+    ],
+    "tips": "Exercise caution, especially at night. Stick to well-lit, busy streets.",
+    "lga": "Melton"
+  },
+  "Aintree": {
+    "score": 60,
+    "label": "orange",
+    "top_crimes": [
+      "Theft (2.4/5)",
+      "Burglary/Break and enter (3.3/5)",
+      "Assault and related offences (4.4/5)"
+    ],
+    "tips": "Exercise caution, especially at night. Stick to well-lit, busy streets.",
+    "lga": "Melton"
+  },
+  "Deanside": {
+    "score": 60,
+    "label": "orange",
+    "top_crimes": [
+      "Theft (2.5/5)",
+      "Burglary/Break and enter (3.2/5)",
+      "Assault and related offences (4.5/5)"
+    ],
+    "tips": "Exercise caution, especially at night. Stick to well-lit, busy streets.",
+    "lga": "Melton"
+  },
+  "Fraser Rise": {
+    "score": 60,
+    "label": "orange",
+    "top_crimes": [
+      "Theft (2.4/5)",
+      "Burglary/Break and enter (3.3/5)",
+      "Breaches of orders (3.8/5)"
+    ],
+    "tips": "Exercise caution, especially at night. Stick to well-lit, busy streets.",
+    "lga": "Melton"
+  },
+  "Harkness": {
+    "score": 60,
+    "label": "orange",
+    "top_crimes": [
+      "Breaches of orders (3.2/5)",
+      "Theft (2.4/5)",
+      "Assault and related offences (4.4/5)"
+    ],
+    "tips": "Exercise caution, especially at night. Stick to well-lit, busy streets.",
+    "lga": "Melton"
+  },
+  "Kurunjang": {
+    "score": 60,
+    "label": "orange",
+    "top_crimes": [
+      "Breaches of orders (3.1/5)",
+      "Assault and related offences (4.4/5)",
+      "Theft (2.4/5)"
+    ],
+    "tips": "Exercise caution, especially at night. Stick to well-lit, busy streets.",
+    "lga": "Melton"
+  },
+  "Melton": {
+    "score": 60,
+    "label": "orange",
+    "top_crimes": [
+      "Theft (2.3/5)",
+      "Breaches of orders (3.0/5)",
+      "Assault and related offences (4.4/5)"
+    ],
+    "tips": "Exercise caution, especially at night. Stick to well-lit, busy streets.",
+    "lga": "Melton"
+  },
+  "Melton West": {
+    "score": 60,
+    "label": "orange",
+    "top_crimes": [
+      "Theft (2.3/5)",
+      "Assault and related offences (4.4/5)",
+      "Breaches of orders (3.1/5)"
+    ],
+    "tips": "Exercise caution, especially at night. Stick to well-lit, busy streets.",
+    "lga": "Melton"
+  },
+  "Toolern Vale": {
+    "score": 60,
+    "label": "orange",
+    "top_crimes": [
+      "Theft (2.5/5)",
+      "Burglary/Break and enter (3.1/5)",
+      "Assault and related offences (4.4/5)"
+    ],
+    "tips": "Exercise caution, especially at night. Stick to well-lit, busy streets.",
+    "lga": "Melton"
+  },
+  "Brookfield": {
+    "score": 60,
+    "label": "orange",
+    "top_crimes": [
+      "Theft (2.4/5)",
+      "Breaches of orders (3.1/5)",
+      "Assault and related offences (4.4/5)"
+    ],
+    "tips": "Exercise caution, especially at night. Stick to well-lit, busy streets.",
+    "lga": "Melton"
+  },
+  "Cobblebank": {
+    "score": 60,
+    "label": "orange",
+    "top_crimes": [
+      "Theft (2.4/5)",
+      "Assault and related offences (4.5/5)",
+      "Breaches of orders (3.3/5)"
+    ],
+    "tips": "Exercise caution, especially at night. Stick to well-lit, busy streets.",
+    "lga": "Melton"
+  },
+  "Exford": {
+    "score": 60,
+    "label": "orange",
+    "top_crimes": [
+      "Dangerous and negligent acts endangering people (4.0/5)",
+      "Theft (2.5/5)",
+      "Burglary/Break and enter (3.0/5)"
+    ],
+    "tips": "Exercise caution, especially at night. Stick to well-lit, busy streets.",
+    "lga": "Melton"
+  },
+  "Eynesbury": {
+    "score": 60,
+    "label": "orange",
+    "top_crimes": [
+      "Theft (2.6/5)",
+      "Breaches of orders (3.7/5)",
+      "Assault and related offences (4.5/5)"
+    ],
+    "tips": "Exercise caution, especially at night. Stick to well-lit, busy streets.",
+    "lga": "Melton"
+  },
+  "Melton South": {
+    "score": 60,
+    "label": "orange",
+    "top_crimes": [
+      "Theft (2.3/5)",
+      "Breaches of orders (3.1/5)",
+      "Assault and related offences (4.4/5)"
+    ],
+    "tips": "Exercise caution, especially at night. Stick to well-lit, busy streets.",
+    "lga": "Melton"
+  },
+  "Strathtulloh": {
+    "score": 60,
+    "label": "orange",
+    "top_crimes": [
+      "Theft (2.4/5)",
+      "Assault and related offences (4.4/5)",
+      "Breaches of orders (3.5/5)"
+    ],
+    "tips": "Exercise caution, especially at night. Stick to well-lit, busy streets.",
+    "lga": "Melton"
+  },
+  "Weir Views": {
+    "score": 60,
+    "label": "orange",
+    "top_crimes": [
+      "Theft (2.4/5)",
+      "Assault and related offences (4.5/5)",
+      "Breaches of orders (3.2/5)"
+    ],
+    "tips": "Exercise caution, especially at night. Stick to well-lit, busy streets.",
+    "lga": "Melton"
+  },
+  "Parwan": {
+    "score": 60,
+    "label": "orange",
+    "top_crimes": [
+      "Theft (2.6/5)",
+      "Arson (4.0/5)",
+      "Weapons and explosives offences (4.0/5)"
+    ],
+    "tips": "Exercise caution, especially at night. Stick to well-lit, busy streets.",
+    "lga": "Melton"
+  },
+  "Gowanbrae": {
+    "score": 60,
+    "label": "orange",
+    "top_crimes": [
+      "Theft (2.5/5)",
+      "Breaches of orders (3.4/5)",
+      "Assault and related offences (4.4/5)"
+    ],
+    "tips": "Exercise caution, especially at night. Stick to well-lit, busy streets.",
+    "lga": "Merri-bek"
+  },
+  "Pascoe Vale": {
+    "score": 60,
+    "label": "orange",
+    "top_crimes": [
+      "Theft (2.3/5)",
+      "Breaches of orders (3.2/5)",
+      "Assault and related offences (4.4/5)"
+    ],
+    "tips": "Exercise caution, especially at night. Stick to well-lit, busy streets.",
+    "lga": "Merri-bek"
+  },
+  "Pascoe Vale South": {
+    "score": 60,
+    "label": "orange",
+    "top_crimes": [
+      "Theft (2.3/5)",
+      "Assault and related offences (4.4/5)",
+      "Burglary/Break and enter (3.3/5)"
+    ],
+    "tips": "Exercise caution, especially at night. Stick to well-lit, busy streets.",
+    "lga": "Merri-bek"
+  },
+  "Glenroy": {
+    "score": 60,
+    "label": "orange",
+    "top_crimes": [
+      "Theft (2.3/5)",
+      "Breaches of orders (3.0/5)",
+      "Assault and related offences (4.4/5)"
+    ],
+    "tips": "Exercise caution, especially at night. Stick to well-lit, busy streets.",
+    "lga": "Merri-bek"
+  },
+  "Hadfield": {
+    "score": 60,
+    "label": "orange",
+    "top_crimes": [
+      "Theft (2.3/5)",
+      "Breaches of orders (3.2/5)",
+      "Assault and related offences (4.4/5)"
+    ],
+    "tips": "Exercise caution, especially at night. Stick to well-lit, busy streets.",
+    "lga": "Merri-bek"
+  },
+  "Oak Park": {
+    "score": 60,
+    "label": "orange",
+    "top_crimes": [
+      "Theft (2.3/5)",
+      "Assault and related offences (4.4/5)",
+      "Breaches of orders (3.3/5)"
+    ],
+    "tips": "Exercise caution, especially at night. Stick to well-lit, busy streets.",
+    "lga": "Merri-bek"
+  },
+  "Brunswick West": {
+    "score": 60,
+    "label": "orange",
+    "top_crimes": [
+      "Theft (2.3/5)",
+      "Breaches of orders (3.2/5)",
+      "Assault and related offences (4.4/5)"
+    ],
+    "tips": "Exercise caution, especially at night. Stick to well-lit, busy streets.",
+    "lga": "Merri-bek"
+  },
+  "Brunswick": {
+    "score": 60,
+    "label": "orange",
+    "top_crimes": [
+      "Theft (2.2/5)",
+      "Assault and related offences (4.4/5)",
+      "Burglary/Break and enter (3.3/5)"
+    ],
+    "tips": "Exercise caution, especially at night. Stick to well-lit, busy streets.",
+    "lga": "Merri-bek"
+  },
+  "Brunswick East": {
+    "score": 60,
+    "label": "orange",
+    "top_crimes": [
+      "Theft (2.3/5)",
+      "Burglary/Break and enter (3.3/5)",
+      "Assault and related offences (4.4/5)"
+    ],
+    "tips": "Exercise caution, especially at night. Stick to well-lit, busy streets.",
+    "lga": "Merri-bek"
+  },
+  "Coburg": {
+    "score": 60,
+    "label": "orange",
+    "top_crimes": [
+      "Theft (2.2/5)",
+      "Assault and related offences (4.4/5)",
+      "Breaches of orders (3.0/5)"
+    ],
+    "tips": "Exercise caution, especially at night. Stick to well-lit, busy streets.",
+    "lga": "Merri-bek"
+  },
+  "Coburg North": {
+    "score": 60,
+    "label": "orange",
+    "top_crimes": [
+      "Theft (2.3/5)",
+      "Breaches of orders (3.1/5)",
+      "Assault and related offences (4.4/5)"
+    ],
+    "tips": "Exercise caution, especially at night. Stick to well-lit, busy streets.",
+    "lga": "Merri-bek"
+  },
+  "Fitzroy North": {
+    "score": 60,
+    "label": "orange",
+    "top_crimes": [
+      "Theft (2.4/5)",
+      "Burglary/Break and enter (3.3/5)",
+      "Assault and related offences (4.4/5)"
+    ],
+    "tips": "Exercise caution, especially at night. Stick to well-lit, busy streets.",
+    "lga": "Merri-bek"
+  },
+  "Burwood": {
+    "score": 49,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.4/5)",
+      "Breaches of orders (3.3/5)",
+      "Burglary/Break and enter (3.3/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Monash"
+  },
+  "Ashwood": {
+    "score": 49,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.3/5)",
+      "Breaches of orders (3.3/5)",
+      "Assault and related offences (4.4/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Monash"
+  },
+  "Chadstone": {
+    "score": 49,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.3/5)",
+      "Breaches of orders (3.2/5)",
+      "Assault and related offences (4.4/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Monash"
+  },
+  "Mount Waverley": {
+    "score": 49,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.3/5)",
+      "Burglary/Break and enter (3.3/5)",
+      "Assault and related offences (4.4/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Monash"
+  },
+  "Glen Waverley": {
+    "score": 49,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.2/5)",
+      "Burglary/Break and enter (3.3/5)",
+      "Assault and related offences (4.4/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Monash"
+  },
+  "Wheelers Hill": {
+    "score": 49,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.3/5)",
+      "Burglary/Break and enter (3.3/5)",
+      "Breaches of orders (3.3/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Monash"
+  },
+  "Hughesdale": {
+    "score": 49,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.3/5)",
+      "Breaches of orders (3.4/5)",
+      "Burglary/Break and enter (3.3/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Monash"
+  },
+  "Huntingdale": {
+    "score": 49,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.4/5)",
+      "Burglary/Break and enter (3.2/5)",
+      "Assault and related offences (4.4/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Monash"
+  },
+  "Oakleigh": {
+    "score": 49,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.2/5)",
+      "Assault and related offences (4.4/5)",
+      "Breaches of orders (3.2/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Monash"
+  },
+  "Oakleigh East": {
+    "score": 49,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.3/5)",
+      "Breaches of orders (3.2/5)",
+      "Assault and related offences (4.5/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Monash"
+  },
+  "Clayton": {
+    "score": 49,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.2/5)",
+      "Assault and related offences (4.4/5)",
+      "Burglary/Break and enter (3.3/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Monash"
+  },
+  "Notting Hill": {
+    "score": 49,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.3/5)",
+      "Burglary/Break and enter (3.2/5)",
+      "Assault and related offences (4.4/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Monash"
+  },
+  "Mulgrave": {
+    "score": 49,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.3/5)",
+      "Deception (1.8/5)",
+      "Assault and related offences (4.4/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Monash"
+  },
+  "Ascot Vale": {
+    "score": 54,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.2/5)",
+      "Breaches of orders (3.1/5)",
+      "Assault and related offences (4.4/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Moonee Valley"
+  },
+  "Travancore": {
+    "score": 54,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.4/5)",
+      "Assault and related offences (4.4/5)",
+      "Burglary/Break and enter (3.3/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Moonee Valley"
+  },
+  "Avondale Heights": {
+    "score": 54,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.3/5)",
+      "Breaches of orders (3.0/5)",
+      "Assault and related offences (4.4/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Moonee Valley"
+  },
+  "Moonee Ponds": {
+    "score": 54,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.2/5)",
+      "Assault and related offences (4.4/5)",
+      "Breaches of orders (3.1/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Moonee Valley"
+  },
+  "Aberfeldie": {
+    "score": 54,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.4/5)",
+      "Breaches of orders (3.3/5)",
+      "Burglary/Break and enter (3.3/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Moonee Valley"
+  },
+  "Essendon": {
+    "score": 54,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.2/5)",
+      "Breaches of orders (3.2/5)",
+      "Assault and related offences (4.4/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Moonee Valley"
+  },
+  "Essendon West": {
+    "score": 54,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.5/5)",
+      "Breaches of orders (3.6/5)",
+      "Assault and related offences (4.4/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Moonee Valley"
+  },
+  "Essendon Fields": {
+    "score": 54,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.4/5)",
+      "Deception (1.8/5)",
+      "Assault and related offences (4.4/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Moonee Valley"
+  },
+  "Essendon North": {
+    "score": 54,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.3/5)",
+      "Breaches of orders (3.2/5)",
+      "Assault and related offences (4.4/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Moonee Valley"
+  },
+  "Strathmore": {
+    "score": 54,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.4/5)",
+      "Burglary/Break and enter (3.3/5)",
+      "Assault and related offences (4.4/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Moonee Valley"
+  },
+  "Strathmore Heights": {
+    "score": 54,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.5/5)",
+      "Assault and related offences (4.5/5)",
+      "Breaches of orders (3.5/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Moonee Valley"
+  },
+  "Airport West": {
+    "score": 54,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.3/5)",
+      "Breaches of orders (3.2/5)",
+      "Assault and related offences (4.4/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Moonee Valley"
+  },
+  "Niddrie": {
+    "score": 54,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.3/5)",
+      "Breaches of orders (3.1/5)",
+      "Assault and related offences (4.4/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Moonee Valley"
+  },
+  "Baxter": {
+    "score": 51,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.4/5)",
+      "Breaches of orders (3.3/5)",
+      "Assault and related offences (4.4/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Mornington Peninsula"
+  },
+  "Somerville": {
+    "score": 51,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.3/5)",
+      "Breaches of orders (3.2/5)",
+      "Assault and related offences (4.4/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Mornington Peninsula"
+  },
+  "Tyabb": {
+    "score": 51,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.4/5)",
+      "Breaches of orders (3.4/5)",
+      "Burglary/Break and enter (3.3/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Mornington Peninsula"
+  },
+  "Hastings": {
+    "score": 51,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.3/5)",
+      "Breaches of orders (3.1/5)",
+      "Assault and related offences (4.4/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Mornington Peninsula"
+  },
+  "Tuerong": {
+    "score": 51,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.6/5)",
+      "Breaches of orders (3.6/5)",
+      "Burglary/Break and enter (3.2/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Mornington Peninsula"
+  },
+  "Merricks": {
+    "score": 51,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.6/5)",
+      "Burglary/Break and enter (3.0/5)",
+      "Property damage (2.0/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Mornington Peninsula"
+  },
+  "Point Leo": {
+    "score": 51,
+    "label": "yellow",
+    "top_crimes": [
+      "Burglary/Break and enter (3.1/5)",
+      "Theft (3.0/5)",
+      "Other crimes against the person (2.0/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Mornington Peninsula"
+  },
+  "Shoreham": {
+    "score": 51,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.7/5)",
+      "Burglary/Break and enter (3.3/5)",
+      "Breaches of orders (4.0/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Mornington Peninsula"
+  },
+  "Bittern": {
+    "score": 51,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.4/5)",
+      "Breaches of orders (3.3/5)",
+      "Assault and related offences (4.4/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Mornington Peninsula"
+  },
+  "Crib Point": {
+    "score": 51,
+    "label": "yellow",
+    "top_crimes": [
+      "Breaches of orders (3.3/5)",
+      "Theft (2.4/5)",
+      "Assault and related offences (4.5/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Mornington Peninsula"
+  },
+  "Hmas Cerberus": {
+    "score": 51,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.6/5)",
+      "Other crimes against the person (2.0/5)",
+      "Assault and related offences (4.8/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Mornington Peninsula"
+  },
+  "Balnarring": {
+    "score": 51,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.4/5)",
+      "Burglary/Break and enter (3.2/5)",
+      "Breaches of orders (3.5/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Mornington Peninsula"
+  },
+  "Balnarring Beach": {
+    "score": 51,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.5/5)",
+      "Burglary/Break and enter (3.2/5)",
+      "Breaches of orders (4.0/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Mornington Peninsula"
+  },
+  "Merricks Beach": {
+    "score": 51,
+    "label": "yellow",
+    "top_crimes": [
+      "Burglary/Break and enter (3.1/5)",
+      "Theft (2.9/5)",
+      "Breaches of orders (4.0/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Mornington Peninsula"
+  },
+  "Merricks North": {
+    "score": 51,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.6/5)",
+      "Burglary/Break and enter (3.1/5)",
+      "Assault and related offences (4.4/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Mornington Peninsula"
+  },
+  "Somers": {
+    "score": 51,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.5/5)",
+      "Breaches of orders (3.7/5)",
+      "Burglary/Break and enter (3.2/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Mornington Peninsula"
+  },
+  "Main Ridge": {
+    "score": 51,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.7/5)",
+      "Burglary/Break and enter (3.1/5)",
+      "Property damage (2.0/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Mornington Peninsula"
+  },
+  "Flinders": {
+    "score": 51,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.5/5)",
+      "Burglary/Break and enter (3.3/5)",
+      "Assault and related offences (4.6/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Mornington Peninsula"
+  },
+  "Mount Eliza": {
+    "score": 51,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.3/5)",
+      "Burglary/Break and enter (3.3/5)",
+      "Breaches of orders (3.2/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Mornington Peninsula"
+  },
+  "Mornington": {
+    "score": 51,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.3/5)",
+      "Breaches of orders (3.1/5)",
+      "Assault and related offences (4.4/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Mornington Peninsula"
+  },
+  "Moorooduc": {
+    "score": 51,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.4/5)",
+      "Breaches of orders (3.3/5)",
+      "Burglary/Break and enter (3.2/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Mornington Peninsula"
+  },
+  "Mount Martha": {
+    "score": 51,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.3/5)",
+      "Breaches of orders (3.3/5)",
+      "Burglary/Break and enter (3.3/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Mornington Peninsula"
+  },
+  "Arthurs Seat": {
+    "score": 51,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.5/5)",
+      "Burglary/Break and enter (3.2/5)",
+      "Miscellaneous offences (2.0/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Mornington Peninsula"
+  },
+  "Dromana": {
+    "score": 51,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.3/5)",
+      "Breaches of orders (3.0/5)",
+      "Burglary/Break and enter (3.3/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Mornington Peninsula"
+  },
+  "Safety Beach": {
+    "score": 51,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.3/5)",
+      "Breaches of orders (3.5/5)",
+      "Burglary/Break and enter (3.3/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Mornington Peninsula"
+  },
+  "Red Hill": {
+    "score": 51,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.5/5)",
+      "Burglary/Break and enter (3.2/5)",
+      "Assault and related offences (4.4/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Mornington Peninsula"
+  },
+  "Red Hill South": {
+    "score": 51,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.6/5)",
+      "Burglary/Break and enter (3.2/5)",
+      "Breaches of orders (4.0/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Mornington Peninsula"
+  },
+  "McCrae": {
+    "score": 51,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.4/5)",
+      "Burglary/Break and enter (3.2/5)",
+      "Breaches of orders (3.5/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Mornington Peninsula"
+  },
+  "Boneo": {
+    "score": 51,
+    "label": "yellow",
+    "top_crimes": [
+      "Breaches of orders (3.3/5)",
+      "Theft (2.5/5)",
+      "Burglary/Break and enter (3.1/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Mornington Peninsula"
+  },
+  "Cape Schanck": {
+    "score": 51,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.6/5)",
+      "Deception (2.0/5)",
+      "Burglary/Break and enter (3.1/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Mornington Peninsula"
+  },
+  "Fingal": {
+    "score": 51,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.5/5)",
+      "Breaches of orders (3.8/5)",
+      "Burglary/Break and enter (3.1/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Mornington Peninsula"
+  },
+  "Rosebud": {
+    "score": 51,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.3/5)",
+      "Breaches of orders (3.1/5)",
+      "Assault and related offences (4.4/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Mornington Peninsula"
+  },
+  "Capel Sound": {
+    "score": 51,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.4/5)",
+      "Breaches of orders (3.3/5)",
+      "Assault and related offences (4.4/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Mornington Peninsula"
+  },
+  "Rye": {
+    "score": 51,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.3/5)",
+      "Breaches of orders (3.1/5)",
+      "Burglary/Break and enter (3.3/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Mornington Peninsula"
+  },
+  "St Andrews Beach": {
+    "score": 51,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.6/5)",
+      "Burglary/Break and enter (3.3/5)",
+      "Breaches of orders (3.8/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Mornington Peninsula"
+  },
+  "Tootgarook": {
+    "score": 51,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.3/5)",
+      "Breaches of orders (3.3/5)",
+      "Burglary/Break and enter (3.3/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Mornington Peninsula"
+  },
+  "Blairgowrie": {
+    "score": 51,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.4/5)",
+      "Burglary/Break and enter (3.3/5)",
+      "Breaches of orders (3.6/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Mornington Peninsula"
+  },
+  "Sorrento": {
+    "score": 51,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.4/5)",
+      "Burglary/Break and enter (3.3/5)",
+      "Assault and related offences (4.4/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Mornington Peninsula"
+  },
+  "Portsea": {
+    "score": 51,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.5/5)",
+      "Burglary/Break and enter (3.2/5)",
+      "Deception (2.0/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Mornington Peninsula"
+  },
+  "Diamond Creek": {
+    "score": 28,
+    "label": "green",
+    "top_crimes": [
+      "Theft (2.3/5)",
+      "Breaches of orders (3.3/5)",
+      "Assault and related offences (4.4/5)"
+    ],
+    "tips": "Safe and family-friendly area. Standard precautions apply as with any urban environment.",
+    "lga": "Nillumbik"
+  },
+  "Plenty": {
+    "score": 28,
+    "label": "green",
+    "top_crimes": [
+      "Theft (2.4/5)",
+      "Burglary/Break and enter (3.3/5)",
+      "Breaches of orders (3.3/5)"
+    ],
+    "tips": "Safe and family-friendly area. Standard precautions apply as with any urban environment.",
+    "lga": "Nillumbik"
+  },
+  "Yarrambat": {
+    "score": 28,
+    "label": "green",
+    "top_crimes": [
+      "Theft (2.5/5)",
+      "Breaches of orders (3.6/5)",
+      "Burglary/Break and enter (3.2/5)"
+    ],
+    "tips": "Safe and family-friendly area. Standard precautions apply as with any urban environment.",
+    "lga": "Nillumbik"
+  },
+  "Research": {
+    "score": 28,
+    "label": "green",
+    "top_crimes": [
+      "Theft (2.5/5)",
+      "Breaches of orders (3.7/5)",
+      "Burglary/Break and enter (3.3/5)"
+    ],
+    "tips": "Safe and family-friendly area. Standard precautions apply as with any urban environment.",
+    "lga": "Nillumbik"
+  },
+  "Wattle Glen": {
+    "score": 28,
+    "label": "green",
+    "top_crimes": [
+      "Breaches of orders (3.9/5)",
+      "Theft (2.5/5)",
+      "Assault and related offences (4.3/5)"
+    ],
+    "tips": "Safe and family-friendly area. Standard precautions apply as with any urban environment.",
+    "lga": "Nillumbik"
+  },
+  "Kangaroo Ground": {
+    "score": 28,
+    "label": "green",
+    "top_crimes": [
+      "Theft (2.6/5)",
+      "Breaches of orders (4.0/5)",
+      "Burglary/Break and enter (3.1/5)"
+    ],
+    "tips": "Safe and family-friendly area. Standard precautions apply as with any urban environment.",
+    "lga": "Nillumbik"
+  },
+  "Watsons Creek": {
+    "score": 28,
+    "label": "green",
+    "top_crimes": [
+      "Breaches of orders (4.0/5)",
+      "Stalking, harassment and threatening behaviour (4.0/5)",
+      "Assault and related offences (5.0/5)"
+    ],
+    "tips": "Safe and family-friendly area. Standard precautions apply as with any urban environment.",
+    "lga": "Nillumbik"
+  },
+  "Arthurs Creek": {
+    "score": 28,
+    "label": "green",
+    "top_crimes": [
+      "Theft (2.6/5)",
+      "Weapons and explosives offences (4.0/5)",
+      "Assault and related offences (4.3/5)"
+    ],
+    "tips": "Safe and family-friendly area. Standard precautions apply as with any urban environment.",
+    "lga": "Nillumbik"
+  },
+  "Cottles Bridge": {
+    "score": 28,
+    "label": "green",
+    "top_crimes": [
+      "Assault and related offences (4.4/5)",
+      "Theft (2.6/5)",
+      "Breaches of orders (3.6/5)"
+    ],
+    "tips": "Safe and family-friendly area. Standard precautions apply as with any urban environment.",
+    "lga": "Nillumbik"
+  },
+  "Hurstbridge": {
+    "score": 28,
+    "label": "green",
+    "top_crimes": [
+      "Theft (2.4/5)",
+      "Breaches of orders (3.6/5)",
+      "Assault and related offences (4.4/5)"
+    ],
+    "tips": "Safe and family-friendly area. Standard precautions apply as with any urban environment.",
+    "lga": "Nillumbik"
+  },
+  "Nutfield": {
+    "score": 28,
+    "label": "green",
+    "top_crimes": [
+      "Assault and related offences (4.3/5)",
+      "Theft (2.4/5)",
+      "Property damage (1.8/5)"
+    ],
+    "tips": "Safe and family-friendly area. Standard precautions apply as with any urban environment.",
+    "lga": "Nillumbik"
+  },
+  "Strathewen": {
+    "score": 28,
+    "label": "green",
+    "top_crimes": [
+      "Theft (2.3/5)",
+      "Burglary/Break and enter (3.0/5)",
+      "Breaches of orders (3.5/5)"
+    ],
+    "tips": "Safe and family-friendly area. Standard precautions apply as with any urban environment.",
+    "lga": "Nillumbik"
+  },
+  "North Warrandyte": {
+    "score": 28,
+    "label": "green",
+    "top_crimes": [
+      "Breaches of orders (3.9/5)",
+      "Theft (2.5/5)",
+      "Assault and related offences (4.4/5)"
+    ],
+    "tips": "Safe and family-friendly area. Standard precautions apply as with any urban environment.",
+    "lga": "Nillumbik"
+  },
+  "Doreen": {
+    "score": 28,
+    "label": "green",
+    "top_crimes": [
+      "Breaches of orders (3.2/5)",
+      "Theft (2.4/5)",
+      "Assault and related offences (4.4/5)"
+    ],
+    "tips": "Safe and family-friendly area. Standard precautions apply as with any urban environment.",
+    "lga": "Nillumbik"
+  },
+  "Kinglake West": {
+    "score": 28,
+    "label": "green",
+    "top_crimes": [
+      "Weapons and explosives offences (4.0/5)",
+      "Assault and related offences (4.7/5)",
+      "Theft (2.5/5)"
+    ],
+    "tips": "Safe and family-friendly area. Standard precautions apply as with any urban environment.",
+    "lga": "Nillumbik"
+  },
+  "Panton Hill": {
+    "score": 28,
+    "label": "green",
+    "top_crimes": [
+      "Theft (2.5/5)",
+      "Burglary/Break and enter (3.1/5)",
+      "Breaches of orders (4.0/5)"
+    ],
+    "tips": "Safe and family-friendly area. Standard precautions apply as with any urban environment.",
+    "lga": "Nillumbik"
+  },
+  "Smiths Gully": {
+    "score": 28,
+    "label": "green",
+    "top_crimes": [
+      "Theft (2.5/5)",
+      "Assault and related offences (4.5/5)",
+      "Stalking, harassment and threatening behaviour (3.6/5)"
+    ],
+    "tips": "Safe and family-friendly area. Standard precautions apply as with any urban environment.",
+    "lga": "Nillumbik"
+  },
+  "St Andrews": {
+    "score": 28,
+    "label": "green",
+    "top_crimes": [
+      "Breaches of orders (4.0/5)",
+      "Theft (2.5/5)",
+      "Assault and related offences (4.5/5)"
+    ],
+    "tips": "Safe and family-friendly area. Standard precautions apply as with any urban environment.",
+    "lga": "Nillumbik"
+  },
+  "Christmas Hills": {
+    "score": 28,
+    "label": "green",
+    "top_crimes": [
+      "Breaches of orders (3.7/5)",
+      "Theft (2.6/5)",
+      "Weapons and explosives offences (4.0/5)"
+    ],
+    "tips": "Safe and family-friendly area. Standard precautions apply as with any urban environment.",
+    "lga": "Nillumbik"
+  },
+  "Windsor": {
+    "score": 93,
+    "label": "red",
+    "top_crimes": [
+      "Theft (2.4/5)",
+      "Assault and related offences (4.4/5)",
+      "Burglary/Break and enter (3.2/5)"
+    ],
+    "tips": "Higher risk area. Stay alert, travel in groups at night, and keep valuables secure.",
+    "lga": "Port Phillip"
+  },
+  "St Kilda": {
+    "score": 93,
+    "label": "red",
+    "top_crimes": [
+      "Theft (2.3/5)",
+      "Assault and related offences (4.4/5)",
+      "Breaches of orders (3.0/5)"
+    ],
+    "tips": "Higher risk area. Stay alert, travel in groups at night, and keep valuables secure.",
+    "lga": "Port Phillip"
+  },
+  "St Kilda West": {
+    "score": 93,
+    "label": "red",
+    "top_crimes": [
+      "Theft (2.4/5)",
+      "Breaches of orders (3.2/5)",
+      "Assault and related offences (4.4/5)"
+    ],
+    "tips": "Higher risk area. Stay alert, travel in groups at night, and keep valuables secure.",
+    "lga": "Port Phillip"
+  },
+  "Balaclava": {
+    "score": 93,
+    "label": "red",
+    "top_crimes": [
+      "Theft (2.3/5)",
+      "Assault and related offences (4.4/5)",
+      "Breaches of orders (3.2/5)"
+    ],
+    "tips": "Higher risk area. Stay alert, travel in groups at night, and keep valuables secure.",
+    "lga": "Port Phillip"
+  },
+  "Elwood": {
+    "score": 93,
+    "label": "red",
+    "top_crimes": [
+      "Theft (2.3/5)",
+      "Breaches of orders (3.3/5)",
+      "Burglary/Break and enter (3.3/5)"
+    ],
+    "tips": "Higher risk area. Stay alert, travel in groups at night, and keep valuables secure.",
+    "lga": "Port Phillip"
+  },
+  "Ripponlea": {
+    "score": 93,
+    "label": "red",
+    "top_crimes": [
+      "Theft (2.4/5)",
+      "Breaches of orders (3.5/5)",
+      "Burglary/Break and enter (3.3/5)"
+    ],
+    "tips": "Higher risk area. Stay alert, travel in groups at night, and keep valuables secure.",
+    "lga": "Port Phillip"
+  },
+  "South Melbourne": {
+    "score": 93,
+    "label": "red",
+    "top_crimes": [
+      "Theft (2.3/5)",
+      "Assault and related offences (4.4/5)",
+      "Burglary/Break and enter (3.2/5)"
+    ],
+    "tips": "Higher risk area. Stay alert, travel in groups at night, and keep valuables secure.",
+    "lga": "Port Phillip"
+  },
+  "Albert Park": {
+    "score": 93,
+    "label": "red",
+    "top_crimes": [
+      "Theft (2.3/5)",
+      "Burglary/Break and enter (3.3/5)",
+      "Assault and related offences (4.4/5)"
+    ],
+    "tips": "Higher risk area. Stay alert, travel in groups at night, and keep valuables secure.",
+    "lga": "Port Phillip"
+  },
+  "Middle Park": {
+    "score": 93,
+    "label": "red",
+    "top_crimes": [
+      "Theft (2.4/5)",
+      "Burglary/Break and enter (3.3/5)",
+      "Assault and related offences (4.4/5)"
+    ],
+    "tips": "Higher risk area. Stay alert, travel in groups at night, and keep valuables secure.",
+    "lga": "Port Phillip"
+  },
+  "Toorak": {
+    "score": 77,
+    "label": "orange",
+    "top_crimes": [
+      "Theft (2.3/5)",
+      "Burglary/Break and enter (3.3/5)",
+      "Assault and related offences (4.4/5)"
+    ],
+    "tips": "Exercise caution, especially at night. Stick to well-lit, busy streets.",
+    "lga": "Stonnington"
+  },
+  "Armadale": {
+    "score": 77,
+    "label": "orange",
+    "top_crimes": [
+      "Theft (2.3/5)",
+      "Burglary/Break and enter (3.3/5)",
+      "Assault and related offences (4.4/5)"
+    ],
+    "tips": "Exercise caution, especially at night. Stick to well-lit, busy streets.",
+    "lga": "Stonnington"
+  },
+  "Malvern": {
+    "score": 77,
+    "label": "orange",
+    "top_crimes": [
+      "Theft (2.3/5)",
+      "Burglary/Break and enter (3.3/5)",
+      "Assault and related offences (4.4/5)"
+    ],
+    "tips": "Exercise caution, especially at night. Stick to well-lit, busy streets.",
+    "lga": "Stonnington"
+  },
+  "Prahran": {
+    "score": 77,
+    "label": "orange",
+    "top_crimes": [
+      "Theft (2.3/5)",
+      "Assault and related offences (4.4/5)",
+      "Deception (1.8/5)"
+    ],
+    "tips": "Exercise caution, especially at night. Stick to well-lit, busy streets.",
+    "lga": "Stonnington"
+  },
+  "Kooyong": {
+    "score": 77,
+    "label": "orange",
+    "top_crimes": [
+      "Theft (2.4/5)",
+      "Burglary/Break and enter (3.3/5)",
+      "Assault and related offences (4.3/5)"
+    ],
+    "tips": "Exercise caution, especially at night. Stick to well-lit, busy streets.",
+    "lga": "Stonnington"
+  },
+  "Malvern East": {
+    "score": 77,
+    "label": "orange",
+    "top_crimes": [
+      "Theft (2.3/5)",
+      "Burglary/Break and enter (3.3/5)",
+      "Assault and related offences (4.4/5)"
+    ],
+    "tips": "Exercise caution, especially at night. Stick to well-lit, busy streets.",
+    "lga": "Stonnington"
+  },
+  "Box Hill": {
+    "score": 41,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.3/5)",
+      "Assault and related offences (4.4/5)",
+      "Burglary/Break and enter (3.3/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Whitehorse"
+  },
+  "Box Hill South": {
+    "score": 41,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.3/5)",
+      "Burglary/Break and enter (3.3/5)",
+      "Assault and related offences (4.4/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Whitehorse"
+  },
+  "Box Hill North": {
+    "score": 41,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.3/5)",
+      "Burglary/Break and enter (3.3/5)",
+      "Assault and related offences (4.4/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Whitehorse"
+  },
+  "Mont Albert North": {
+    "score": 41,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.4/5)",
+      "Burglary/Break and enter (3.3/5)",
+      "Assault and related offences (4.4/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Whitehorse"
+  },
+  "Blackburn": {
+    "score": 41,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.3/5)",
+      "Burglary/Break and enter (3.3/5)",
+      "Breaches of orders (3.1/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Whitehorse"
+  },
+  "Blackburn North": {
+    "score": 41,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.3/5)",
+      "Assault and related offences (4.4/5)",
+      "Burglary/Break and enter (3.3/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Whitehorse"
+  },
+  "Blackburn South": {
+    "score": 41,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.3/5)",
+      "Breaches of orders (3.3/5)",
+      "Assault and related offences (4.4/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Whitehorse"
+  },
+  "Forest Hill": {
+    "score": 41,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.3/5)",
+      "Assault and related offences (4.4/5)",
+      "Breaches of orders (3.2/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Whitehorse"
+  },
+  "Mitcham": {
+    "score": 41,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.3/5)",
+      "Burglary/Break and enter (3.3/5)",
+      "Assault and related offences (4.4/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Whitehorse"
+  },
+  "Vermont South": {
+    "score": 41,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.4/5)",
+      "Burglary/Break and enter (3.3/5)",
+      "Breaches of orders (3.3/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Whitehorse"
+  },
+  "Burwood East": {
+    "score": 41,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.3/5)",
+      "Assault and related offences (4.4/5)",
+      "Burglary/Break and enter (3.3/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Whitehorse"
+  },
+  "Donnybrook": {
+    "score": 54,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.5/5)",
+      "Breaches of orders (3.5/5)",
+      "Assault and related offences (4.4/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Whittlesea"
+  },
+  "Thomastown": {
+    "score": 54,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.3/5)",
+      "Assault and related offences (4.4/5)",
+      "Breaches of orders (3.1/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Whittlesea"
+  },
+  "Lalor": {
+    "score": 54,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.3/5)",
+      "Breaches of orders (3.1/5)",
+      "Assault and related offences (4.4/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Whittlesea"
+  },
+  "Epping": {
+    "score": 54,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.3/5)",
+      "Assault and related offences (4.4/5)",
+      "Breaches of orders (3.0/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Whittlesea"
+  },
+  "Mill Park": {
+    "score": 54,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.3/5)",
+      "Breaches of orders (3.1/5)",
+      "Assault and related offences (4.4/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Whittlesea"
+  },
+  "Wollert": {
+    "score": 54,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.4/5)",
+      "Breaches of orders (3.2/5)",
+      "Assault and related offences (4.4/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Whittlesea"
+  },
+  "Woodstock": {
+    "score": 54,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.5/5)",
+      "Assault and related offences (4.5/5)",
+      "Burglary/Break and enter (3.1/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Whittlesea"
+  },
+  "South Morang": {
+    "score": 54,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.2/5)",
+      "Breaches of orders (3.1/5)",
+      "Assault and related offences (4.4/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Whittlesea"
+  },
+  "Beveridge": {
+    "score": 54,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.5/5)",
+      "Weapons and explosives offences (4.0/5)",
+      "Assault and related offences (4.4/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Whittlesea"
+  },
+  "Mernda": {
+    "score": 54,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.3/5)",
+      "Breaches of orders (3.1/5)",
+      "Assault and related offences (4.4/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Whittlesea"
+  },
+  "Yan Yean": {
+    "score": 54,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.4/5)",
+      "Burglary/Break and enter (3.1/5)",
+      "Assault and related offences (4.8/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Whittlesea"
+  },
+  "Eden Park": {
+    "score": 54,
+    "label": "yellow",
+    "top_crimes": [
+      "Breaches of orders (3.9/5)",
+      "Theft (2.4/5)",
+      "Assault and related offences (4.4/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Whittlesea"
+  },
+  "Humevale": {
+    "score": 54,
+    "label": "yellow",
+    "top_crimes": [
+      "Weapons and explosives offences (4.0/5)",
+      "Theft (2.5/5)",
+      "Burglary/Break and enter (3.1/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Whittlesea"
+  },
+  "Whittlesea": {
+    "score": 54,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.4/5)",
+      "Breaches of orders (3.2/5)",
+      "Assault and related offences (4.4/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Whittlesea"
+  },
+  "Mambourin": {
+    "score": 50,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.4/5)",
+      "Burglary/Break and enter (3.2/5)",
+      "Breaches of orders (3.4/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Wyndham"
+  },
+  "Manor Lakes": {
+    "score": 50,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.3/5)",
+      "Assault and related offences (4.4/5)",
+      "Breaches of orders (3.3/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Wyndham"
+  },
+  "Wyndham Vale": {
+    "score": 50,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.3/5)",
+      "Breaches of orders (3.1/5)",
+      "Assault and related offences (4.4/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Wyndham"
+  },
+  "Laverton North": {
+    "score": 50,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.4/5)",
+      "Deception (1.8/5)",
+      "Burglary/Break and enter (3.1/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Wyndham"
+  },
+  "Williams Landing": {
+    "score": 50,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.3/5)",
+      "Burglary/Break and enter (3.3/5)",
+      "Assault and related offences (4.4/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Wyndham"
+  },
+  "Hoppers Crossing": {
+    "score": 50,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.3/5)",
+      "Assault and related offences (4.4/5)",
+      "Breaches of orders (3.0/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Wyndham"
+  },
+  "Tarneit": {
+    "score": 50,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.3/5)",
+      "Assault and related offences (4.4/5)",
+      "Breaches of orders (3.1/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Wyndham"
+  },
+  "Cocoroc": {
+    "score": 50,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.4/5)",
+      "Burglary/Break and enter (3.0/5)",
+      "Property damage (1.8/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Wyndham"
+  },
+  "Point Cook": {
+    "score": 50,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.3/5)",
+      "Assault and related offences (4.4/5)",
+      "Breaches of orders (3.0/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Wyndham"
+  },
+  "Quandong": {
+    "score": 50,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.7/5)",
+      "Arson (4.0/5)",
+      "Burglary/Break and enter (3.0/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Wyndham"
+  },
+  "Werribee": {
+    "score": 50,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.3/5)",
+      "Breaches of orders (3.0/5)",
+      "Assault and related offences (4.4/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Wyndham"
+  },
+  "Werribee South": {
+    "score": 50,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.4/5)",
+      "Breaches of orders (3.2/5)",
+      "Burglary/Break and enter (3.2/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Wyndham"
+  },
+  "Little River": {
+    "score": 50,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.4/5)",
+      "Miscellaneous offences (2.0/5)",
+      "Assault and related offences (4.4/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Wyndham"
+  },
+  "Princes Hill": {
+    "score": 100,
+    "label": "red",
+    "top_crimes": [
+      "Theft (2.4/5)",
+      "Burglary/Break and enter (3.3/5)",
+      "Breaches of orders (3.4/5)"
+    ],
+    "tips": "Higher risk area. Stay alert, travel in groups at night, and keep valuables secure.",
+    "lga": "Yarra"
+  },
+  "Fitzroy": {
+    "score": 100,
+    "label": "red",
+    "top_crimes": [
+      "Theft (2.3/5)",
+      "Assault and related offences (4.4/5)",
+      "Burglary/Break and enter (3.2/5)"
+    ],
+    "tips": "Higher risk area. Stay alert, travel in groups at night, and keep valuables secure.",
+    "lga": "Yarra"
+  },
+  "Clifton Hill": {
+    "score": 100,
+    "label": "red",
+    "top_crimes": [
+      "Theft (2.3/5)",
+      "Burglary/Break and enter (3.3/5)",
+      "Assault and related offences (4.4/5)"
+    ],
+    "tips": "Higher risk area. Stay alert, travel in groups at night, and keep valuables secure.",
+    "lga": "Yarra"
+  },
+  "Collingwood": {
+    "score": 100,
+    "label": "red",
+    "top_crimes": [
+      "Theft (2.3/5)",
+      "Assault and related offences (4.4/5)",
+      "Breaches of orders (3.1/5)"
+    ],
+    "tips": "Higher risk area. Stay alert, travel in groups at night, and keep valuables secure.",
+    "lga": "Yarra"
+  },
+  "Abbotsford": {
+    "score": 100,
+    "label": "red",
+    "top_crimes": [
+      "Theft (2.3/5)",
+      "Assault and related offences (4.4/5)",
+      "Burglary/Break and enter (3.3/5)"
+    ],
+    "tips": "Higher risk area. Stay alert, travel in groups at night, and keep valuables secure.",
+    "lga": "Yarra"
+  },
+  "Burnley": {
+    "score": 100,
+    "label": "red",
+    "top_crimes": [
+      "Theft (2.4/5)",
+      "Property damage (1.5/5)",
+      "Assault and related offences (4.4/5)"
+    ],
+    "tips": "Higher risk area. Stay alert, travel in groups at night, and keep valuables secure.",
+    "lga": "Yarra"
+  },
+  "Cremorne": {
+    "score": 100,
+    "label": "red",
+    "top_crimes": [
+      "Theft (2.3/5)",
+      "Burglary/Break and enter (3.2/5)",
+      "Assault and related offences (4.4/5)"
+    ],
+    "tips": "Higher risk area. Stay alert, travel in groups at night, and keep valuables secure.",
+    "lga": "Yarra"
+  },
+  "Richmond": {
+    "score": 100,
+    "label": "red",
+    "top_crimes": [
+      "Theft (2.2/5)",
+      "Assault and related offences (4.4/5)",
+      "Breaches of orders (3.0/5)"
+    ],
+    "tips": "Higher risk area. Stay alert, travel in groups at night, and keep valuables secure.",
+    "lga": "Yarra"
+  },
+  "Chirnside Park": {
+    "score": 41,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.4/5)",
+      "Assault and related offences (4.4/5)",
+      "Breaches of orders (3.3/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Yarra Ranges"
+  },
+  "Mooroolbark": {
+    "score": 41,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.3/5)",
+      "Breaches of orders (3.2/5)",
+      "Assault and related offences (4.4/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Yarra Ranges"
+  },
+  "Don Valley": {
+    "score": 41,
+    "label": "yellow",
+    "top_crimes": [
+      "Other crimes against the person (2.0/5)",
+      "Breaches of orders (3.7/5)",
+      "Theft (2.6/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Yarra Ranges"
+  },
+  "Hoddles Creek": {
+    "score": 41,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.5/5)",
+      "Breaches of orders (3.8/5)",
+      "Weapons and explosives offences (4.0/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Yarra Ranges"
+  },
+  "Launching Place": {
+    "score": 41,
+    "label": "yellow",
+    "top_crimes": [
+      "Breaches of orders (3.5/5)",
+      "Theft (2.4/5)",
+      "Assault and related offences (4.4/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Yarra Ranges"
+  },
+  "Seville": {
+    "score": 41,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.4/5)",
+      "Breaches of orders (3.5/5)",
+      "Assault and related offences (4.4/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Yarra Ranges"
+  },
+  "Seville East": {
+    "score": 41,
+    "label": "yellow",
+    "top_crimes": [
+      "Breaches of orders (3.8/5)",
+      "Assault and related offences (4.4/5)",
+      "Theft (2.5/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Yarra Ranges"
+  },
+  "Wandin East": {
+    "score": 41,
+    "label": "yellow",
+    "top_crimes": [
+      "Breaches of orders (4.0/5)",
+      "Theft (2.7/5)",
+      "Burglary/Break and enter (3.2/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Yarra Ranges"
+  },
+  "Wandin North": {
+    "score": 41,
+    "label": "yellow",
+    "top_crimes": [
+      "Breaches of orders (3.4/5)",
+      "Theft (2.4/5)",
+      "Assault and related offences (4.4/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Yarra Ranges"
+  },
+  "Woori Yallock": {
+    "score": 41,
+    "label": "yellow",
+    "top_crimes": [
+      "Breaches of orders (3.3/5)",
+      "Theft (2.4/5)",
+      "Assault and related offences (4.4/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Yarra Ranges"
+  },
+  "Yellingbo": {
+    "score": 41,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.5/5)",
+      "Assault and related offences (4.5/5)",
+      "Burglary/Break and enter (3.1/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Yarra Ranges"
+  },
+  "Lilydale": {
+    "score": 41,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.3/5)",
+      "Breaches of orders (3.1/5)",
+      "Assault and related offences (4.4/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Yarra Ranges"
+  },
+  "Upwey": {
+    "score": 41,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.4/5)",
+      "Breaches of orders (3.5/5)",
+      "Assault and related offences (4.4/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Yarra Ranges"
+  },
+  "Selby": {
+    "score": 41,
+    "label": "yellow",
+    "top_crimes": [
+      "Assault and related offences (4.5/5)",
+      "Breaches of orders (3.6/5)",
+      "Theft (2.6/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Yarra Ranges"
+  },
+  "Belgrave": {
+    "score": 41,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.3/5)",
+      "Breaches of orders (3.2/5)",
+      "Property damage (1.6/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Yarra Ranges"
+  },
+  "Belgrave Heights": {
+    "score": 41,
+    "label": "yellow",
+    "top_crimes": [
+      "Assault and related offences (4.5/5)",
+      "Theft (2.5/5)",
+      "Other crimes against the person (2.0/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Yarra Ranges"
+  },
+  "Belgrave South": {
+    "score": 41,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.5/5)",
+      "Assault and related offences (4.5/5)",
+      "Burglary/Break and enter (3.1/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Yarra Ranges"
+  },
+  "Tecoma": {
+    "score": 41,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.4/5)",
+      "Breaches of orders (3.3/5)",
+      "Assault and related offences (4.4/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Yarra Ranges"
+  },
+  "Matlock": {
+    "score": 41,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.3/5)",
+      "Burglary/Break and enter (3.0/5)",
+      "Property damage (2.0/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Yarra Ranges"
+  },
+  "Montrose": {
+    "score": 41,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.4/5)",
+      "Breaches of orders (3.3/5)",
+      "Assault and related offences (4.4/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Yarra Ranges"
+  },
+  "Kalorama": {
+    "score": 41,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.5/5)",
+      "Burglary/Break and enter (3.2/5)",
+      "Breaches of orders (3.7/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Yarra Ranges"
+  },
+  "Mount Dandenong": {
+    "score": 41,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.5/5)",
+      "Burglary/Break and enter (3.3/5)",
+      "Breaches of orders (3.5/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Yarra Ranges"
+  },
+  "Coldstream": {
+    "score": 41,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.4/5)",
+      "Breaches of orders (3.5/5)",
+      "Assault and related offences (4.4/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Yarra Ranges"
+  },
+  "Gruyere": {
+    "score": 41,
+    "label": "yellow",
+    "top_crimes": [
+      "Breaches of orders (4.0/5)",
+      "Theft (2.5/5)",
+      "Assault and related offences (4.4/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Yarra Ranges"
+  },
+  "Yering": {
+    "score": 41,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.6/5)",
+      "Burglary/Break and enter (3.0/5)",
+      "Assault and related offences (4.6/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Yarra Ranges"
+  },
+  "Dixons Creek": {
+    "score": 41,
+    "label": "yellow",
+    "top_crimes": [
+      "Deception (2.0/5)",
+      "Theft (2.6/5)",
+      "Assault and related offences (4.5/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Yarra Ranges"
+  },
+  "Steels Creek": {
+    "score": 41,
+    "label": "yellow",
+    "top_crimes": [
+      "Breaches of orders (3.7/5)",
+      "Theft (2.4/5)",
+      "Assault and related offences (4.8/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Yarra Ranges"
+  },
+  "Tarrawarra": {
+    "score": 41,
+    "label": "yellow",
+    "top_crimes": [
+      "Assault and related offences (4.4/5)",
+      "Dangerous and negligent acts endangering people (4.0/5)",
+      "Theft (2.7/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Yarra Ranges"
+  },
+  "Yarra Glen": {
+    "score": 41,
+    "label": "yellow",
+    "top_crimes": [
+      "Breaches of orders (3.5/5)",
+      "Theft (2.4/5)",
+      "Assault and related offences (4.4/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Yarra Ranges"
+  },
+  "Badger Creek": {
+    "score": 41,
+    "label": "yellow",
+    "top_crimes": [
+      "Breaches of orders (3.8/5)",
+      "Assault and related offences (4.5/5)",
+      "Theft (2.5/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Yarra Ranges"
+  },
+  "Chum Creek": {
+    "score": 41,
+    "label": "yellow",
+    "top_crimes": [
+      "Breaches of orders (4.0/5)",
+      "Assault and related offences (4.3/5)",
+      "Theft (2.7/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Yarra Ranges"
+  },
+  "Healesville": {
+    "score": 41,
+    "label": "yellow",
+    "top_crimes": [
+      "Breaches of orders (3.3/5)",
+      "Theft (2.3/5)",
+      "Assault and related offences (4.4/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Yarra Ranges"
+  },
+  "Mount Toolebewong": {
+    "score": 41,
+    "label": "yellow",
+    "top_crimes": [
+      "Burglary/Break and enter (3.0/5)",
+      "Theft (3.0/5)",
+      "Stalking, harassment and threatening behaviour (4.0/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Yarra Ranges"
+  },
+  "Toolangi": {
+    "score": 41,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.4/5)",
+      "Dangerous and negligent acts endangering people (4.0/5)",
+      "Burglary/Break and enter (3.0/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Yarra Ranges"
+  },
+  "Cambarville": {
+    "score": 41,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.6/5)",
+      "Robbery (5.0/5)",
+      "Arson (4.0/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Yarra Ranges"
+  },
+  "Macclesfield": {
+    "score": 41,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.5/5)",
+      "Breaches of orders (3.5/5)",
+      "Burglary/Break and enter (3.0/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Yarra Ranges"
+  },
+  "Tremont": {
+    "score": 41,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.6/5)",
+      "Miscellaneous offences (2.0/5)",
+      "Burglary/Break and enter (3.0/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Yarra Ranges"
+  },
+  "Ferny Creek": {
+    "score": 41,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.5/5)",
+      "Burglary/Break and enter (3.1/5)",
+      "Assault and related offences (4.3/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Yarra Ranges"
+  },
+  "Sassafras": {
+    "score": 41,
+    "label": "yellow",
+    "top_crimes": [
+      "Burglary/Break and enter (3.0/5)",
+      "Theft (2.5/5)",
+      "Breaches of orders (3.8/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Yarra Ranges"
+  },
+  "Olinda": {
+    "score": 41,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.4/5)",
+      "Burglary/Break and enter (3.2/5)",
+      "Breaches of orders (3.7/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Yarra Ranges"
+  },
+  "Sherbrooke": {
+    "score": 41,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.5/5)",
+      "Burglary/Break and enter (3.0/5)",
+      "Assault and related offences (4.4/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Yarra Ranges"
+  },
+  "Kallista": {
+    "score": 41,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.5/5)",
+      "Burglary/Break and enter (3.1/5)",
+      "Assault and related offences (4.4/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Yarra Ranges"
+  },
+  "The Patch": {
+    "score": 41,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.6/5)",
+      "Assault and related offences (4.3/5)",
+      "Breaches of orders (3.4/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Yarra Ranges"
+  },
+  "Monbulk": {
+    "score": 41,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.4/5)",
+      "Breaches of orders (3.7/5)",
+      "Assault and related offences (4.5/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Yarra Ranges"
+  },
+  "Silvan": {
+    "score": 41,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.5/5)",
+      "Breaches of orders (3.5/5)",
+      "Assault and related offences (4.4/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Yarra Ranges"
+  },
+  "Mount Evelyn": {
+    "score": 41,
+    "label": "yellow",
+    "top_crimes": [
+      "Breaches of orders (3.4/5)",
+      "Theft (2.4/5)",
+      "Assault and related offences (4.4/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Yarra Ranges"
+  },
+  "Gladysdale": {
+    "score": 41,
+    "label": "yellow",
+    "top_crimes": [
+      "Assault and related offences (4.5/5)",
+      "Breaches of orders (4.0/5)",
+      "Dangerous and negligent acts endangering people (4.0/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Yarra Ranges"
+  },
+  "Powelltown": {
+    "score": 41,
+    "label": "yellow",
+    "top_crimes": [
+      "Breaches of orders (3.8/5)",
+      "Assault and related offences (4.5/5)",
+      "Theft (2.4/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Yarra Ranges"
+  },
+  "Three Bridges": {
+    "score": 41,
+    "label": "yellow",
+    "top_crimes": [
+      "Breaches of orders (4.0/5)",
+      "Weapons and explosives offences (4.0/5)",
+      "Assault and related offences (4.2/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Yarra Ranges"
+  },
+  "Yarra Junction": {
+    "score": 41,
+    "label": "yellow",
+    "top_crimes": [
+      "Breaches of orders (3.4/5)",
+      "Assault and related offences (4.5/5)",
+      "Theft (2.4/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Yarra Ranges"
+  },
+  "Big Pats Creek": {
+    "score": 41,
+    "label": "yellow",
+    "top_crimes": [
+      "Assault and related offences (4.0/5)",
+      "Miscellaneous offences (2.0/5)",
+      "Breaches of orders (4.0/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Yarra Ranges"
+  },
+  "East Warburton": {
+    "score": 41,
+    "label": "yellow",
+    "top_crimes": [
+      "Breaches of orders (4.0/5)",
+      "Theft (2.6/5)",
+      "Assault and related offences (4.4/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Yarra Ranges"
+  },
+  "McMahons Creek": {
+    "score": 41,
+    "label": "yellow",
+    "top_crimes": [
+      "Assault and related offences (4.5/5)",
+      "Theft (2.5/5)",
+      "Breaches of orders (4.0/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Yarra Ranges"
+  },
+  "Millgrove": {
+    "score": 41,
+    "label": "yellow",
+    "top_crimes": [
+      "Breaches of orders (3.5/5)",
+      "Deception (1.9/5)",
+      "Assault and related offences (4.4/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Yarra Ranges"
+  },
+  "Reefton": {
+    "score": 41,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.5/5)",
+      "Burglary/Break and enter (3.0/5)",
+      "Property damage (2.0/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Yarra Ranges"
+  },
+  "Warburton": {
+    "score": 41,
+    "label": "yellow",
+    "top_crimes": [
+      "Breaches of orders (3.8/5)",
+      "Theft (2.4/5)",
+      "Assault and related offences (4.4/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Yarra Ranges"
+  },
+  "Wesburn": {
+    "score": 41,
+    "label": "yellow",
+    "top_crimes": [
+      "Breaches of orders (3.6/5)",
+      "Theft (2.5/5)",
+      "Assault and related offences (4.5/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Yarra Ranges"
+  },
+  "Narre Warren East": {
+    "score": 41,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.5/5)",
+      "Breaches of orders (3.3/5)",
+      "Burglary/Break and enter (3.2/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Yarra Ranges"
+  },
+  "Tonimbuk": {
+    "score": 50,
+    "label": "yellow",
+    "top_crimes": [
+      "Weapons and explosives offences (4.0/5)",
+      "Burglary/Break and enter (3.0/5)",
+      "Theft (2.4/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Cardinia"
+  },
+  "Lang Lang East": {
+    "score": 50,
+    "label": "yellow",
+    "top_crimes": [
+      "Burglary/Break and enter (3.0/5)",
+      "Weapons and explosives offences (4.0/5)",
+      "Assault and related offences (4.0/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Cardinia"
+  },
+  "Bend Of Islands": {
+    "score": 28,
+    "label": "green",
+    "top_crimes": [
+      "Theft (2.8/5)",
+      "Assault and related offences (4.0/5)",
+      "Deception (2.0/5)"
+    ],
+    "tips": "Safe and family-friendly area. Standard precautions apply as with any urban environment.",
+    "lga": "Nillumbik"
+  },
+  "Kinglake": {
+    "score": 28,
+    "label": "green",
+    "top_crimes": [
+      "Assault and related offences (4.0/5)",
+      "Dangerous and negligent acts endangering people (4.0/5)",
+      "Miscellaneous offences (2.0/5)"
+    ],
+    "tips": "Safe and family-friendly area. Standard precautions apply as with any urban environment.",
+    "lga": "Nillumbik"
+  },
+  "Beenak": {
+    "score": 41,
+    "label": "yellow",
+    "top_crimes": [
+      "Burglary/Break and enter (3.2/5)",
+      "Theft (2.8/5)",
+      "Assault and related offences (4.5/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Yarra Ranges"
+  },
+  "Fernshaw": {
+    "score": 41,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.5/5)",
+      "Arson (4.0/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Yarra Ranges"
+  },
+  "Gilderoy": {
+    "score": 41,
+    "label": "yellow",
+    "top_crimes": [
+      "Theft (2.5/5)",
+      "Burglary/Break and enter (3.0/5)",
+      "Other crimes against the person (2.0/5)"
+    ],
+    "tips": "Generally safe. Take standard precautions at night and stay aware of your surroundings.",
+    "lga": "Yarra Ranges"
+  }
+}
